@@ -1,0 +1,16 @@
+{
+  "name": "@momo-kits/carousel",
+  "version": "0.0.48-rc.4",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "16.9.0"
+  },
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": ">=0.55"
+  },
+  "devDependencies": {},
+  "license": "MoMo"
+}

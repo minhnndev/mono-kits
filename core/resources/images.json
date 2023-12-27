@@ -1,0 +1,1667 @@
+{
+  "ic_arrow_back": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_arrow_back.png"
+  },
+  "ic_arrow_next": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_arrow_next.png"
+  },
+  "ic_backspace": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_backspace.png"
+  },
+  "ic_check_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_check_green.png"
+  },
+  "ic_check_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_check_white.png"
+  },
+  "ic_checkbox_checked_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_checkbox_checked_green.png"
+  },
+  "ic_checkbox_uncheck": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_checkbox_uncheck.png"
+  },
+  "ic_close_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_close_circle.png"
+  },
+  "ic_close_circle_black": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_close_circle_black.png"
+  },
+  "ic_corner_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_corner_checked.png"
+  },
+  "ic_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_down.png"
+  },
+  "ic_eye": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_eye.png"
+  },
+  "ic_film_order": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_film_order.gif"
+  },
+  "ic_help": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_help.png"
+  },
+  "ic_info": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_info.png"
+  },
+  "ic_info_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_info_blue.png"
+  },
+  "ic_label": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_label.png"
+  },
+  "ic_line_horizontal": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_line_horizontal.png"
+  },
+  "ic_line_vertical": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_line_vertical.png"
+  },
+  "ic_location_mark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_location_mark.png"
+  },
+  "ic_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_minus.png"
+  },
+  "ic_online": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_online.png"
+  },
+  "ic_play": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_play.png"
+  },
+  "ic_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_plus.png"
+  },
+  "ic_promotion_yellow": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_promotion_yellow.png"
+  },
+  "ic_radio_checked_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_radio_checked_green.png"
+  },
+  "ic_radio_uncheck": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_radio_uncheck.png"
+  },
+  "ic_report_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_report_white.png"
+  },
+  "ic_setting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_setting.png"
+  },
+  "ic_shield_transaction": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_shield_transaction.png"
+  },
+  "ic_star": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_star.png"
+  },
+  "ic_star_yellow": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_star_yellow.png"
+  },
+  "ic_upload": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_upload.png"
+  },
+  "ic_warning": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_warning.png"
+  },
+  "logo_momo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/logo_momo.png"
+  },
+  "ic_bank_link_account": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bank_link_account.png"
+  },
+  "ic_xbanner_email": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_xbanner_email.png"
+  },
+  "ic_xbanner_bank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_xbanner_bank.png"
+  },
+  "ic_add_bank_big": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_add_bank_big.png"
+  },
+  "ic_add_visa_big": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_add_visa_big.png"
+  },
+  "ic_dgd_big": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_dgd_big.png"
+  },
+  "ic_link_big": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_link_big.png"
+  },
+  "ic_abbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_abbank.png"
+  },
+  "ic_acb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_acb.png"
+  },
+  "ic_agribank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_agribank.png"
+  },
+  "ic_baca": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_baca.png"
+  },
+  "ic_baoviet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_baoviet.png"
+  },
+  "ic_bidv": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bidv.png"
+  },
+  "ic_cimb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_cimb.png"
+  },
+  "ic_coopbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_coopbank.png"
+  },
+  "ic_donga": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_donga.png"
+  },
+  "ic_emptybank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_emptybank.png"
+  },
+  "ic_eximbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_eximbank.png"
+  },
+  "ic_gpbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_gpbank.png"
+  },
+  "ic_hdbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_hdbank.png"
+  },
+  "ic_hong_leong_bank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_hong_leong_bank.png"
+  },
+  "ic_ibkbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_ibkbank.png"
+  },
+  "ic_ivb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_ivb.png"
+  },
+  "ic_jcb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_jcb.png"
+  },
+  "ic_kienlong": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_kienlong.png"
+  },
+  "ic_lienvietpostbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_lienvietpostbank.png"
+  },
+  "ic_maritimebank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_maritimebank.png"
+  },
+  "ic_master": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_master.png"
+  },
+  "ic_mb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_mb.png"
+  },
+  "ic_nab": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_nab.png"
+  },
+  "ic_navibank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_navibank.png"
+  },
+  "ic_ncb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_ncb.png"
+  },
+  "ic_ocb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_ocb.png"
+  },
+  "ic_oceanbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_oceanbank.png"
+  },
+  "ic_pgbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_pgbank.png"
+  },
+  "ic_publicbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_publicbank.png"
+  },
+  "ic_pvcombank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_pvcombank.png"
+  },
+  "ic_sacombank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_sacombank.png"
+  },
+  "ic_sacombank_old": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_sacombank_old.png"
+  },
+  "ic_saigonbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_saigonbank.png"
+  },
+  "ic_scb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_scb.png"
+  },
+  "ic_seabank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seabank.png"
+  },
+  "ic_shb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_shb.png"
+  },
+  "ic_shinhan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_shinhan.png"
+  },
+  "ic_techcombank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_techcombank.png"
+  },
+  "ic_tpbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_tpbank.png"
+  },
+  "ic_uob": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_uob.png"
+  },
+  "ic_vib": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vib.png"
+  },
+  "ic_vieta": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vieta.png"
+  },
+  "ic_vietbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vietbank.png"
+  },
+  "ic_vietcapitalbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vietcapitalbank.png"
+  },
+  "ic_vietcombank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vietcombank.png"
+  },
+  "ic_vietinbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vietinbank.png"
+  },
+  "ic_visa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_visa.png"
+  },
+  "ic_vpbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vpbank.png"
+  },
+  "ic_vrb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vrb.png"
+  },
+  "ic_wallet_money": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_wallet_money.png"
+  },
+  "ic_wooribank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_wooribank.png"
+  },
+  "img_popup_non_verify_momo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/img_popup_non_verify_momo.png"
+  },
+  "logo_dss": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/logo_dss.png"
+  },
+  "chua_giao_dich": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/chua_giao_dich.png"
+  },
+  "dot": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/dot.png"
+  },
+  "ic_all": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_all.png"
+  },
+  "ic_attach": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_attach.png"
+  },
+  "ic_call_round_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_call_round_blue.png"
+  },
+  "ic_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_check.png"
+  },
+  "ic_dislike": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_dislike.png"
+  },
+  "ic_email": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_email.png"
+  },
+  "ic_email_round_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_email_round_blue.png"
+  },
+  "ic_endow": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_endow.png"
+  },
+  "ic_inbox": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_inbox.png"
+  },
+  "ic_like": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_like.png"
+  },
+  "ic_link_bank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_link_bank.png"
+  },
+  "ic_phone": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_phone.png"
+  },
+  "ic_promotion": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_promotion.png"
+  },
+  "ic_purchase": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_purchase.png"
+  },
+  "ic_remind": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_remind.png"
+  },
+  "ic_supermen_momo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_supermen_momo.png"
+  },
+  "ic_uncheck": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_uncheck.png"
+  },
+  "ic_voucher": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_voucher.png"
+  },
+  "needSupport_NO": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/needSupport_NO.png"
+  },
+  "needSupport_YES": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/needSupport_YES.png"
+  },
+  "ic_common_add_img_filled_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_add_img_filled_gray.png"
+  },
+  "ic_common_add_img_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_add_img_gray.png"
+  },
+  "ic_common_alarm": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_alarm.png"
+  },
+  "ic_common_all_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_all_gray.png"
+  },
+  "ic_common_all_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_all_green.png"
+  },
+  "ic_common_auth_account": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_auth_account.png"
+  },
+  "ic_common_auth_account_kyc_bank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_auth_account_kyc_bank.png"
+  },
+  "ic_common_auth_account_kyc_dgd": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_auth_account_kyc_dgd.png"
+  },
+  "ic_common_avatar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_avatar.png"
+  },
+  "ic_common_back_round_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_back_round_gray.png"
+  },
+  "ic_common_box_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_box_checked.png"
+  },
+  "ic_common_box_uncheck": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_box_uncheck.png"
+  },
+  "ic_common_calendar_event_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_calendar_event_blue.png"
+  },
+  "ic_common_calendar_event_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_calendar_event_gray.png"
+  },
+  "ic_common_calendar_gray_v1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_calendar_gray_v1.png"
+  },
+  "ic_common_calendar_gray_v2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_calendar_gray_v2.png"
+  },
+  "ic_common_cash_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_cash_blue.png"
+  },
+  "ic_common_check_filled_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_check_filled_green.png"
+  },
+  "ic_common_checkbox_active_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_checkbox_active_green.png"
+  },
+  "ic_common_checkbox_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_checkbox_gray.png"
+  },
+  "ic_common_checked_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_checked_blue.png"
+  },
+  "ic_common_close": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_close_light_fat.png"
+  },
+  "ic_common_close_light_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_close_light_small.png"
+  },
+  "ic_common_close_round_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_close_round_dark.png"
+  },
+  "ic_common_close_round_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_close_round_gray.png"
+  },
+  "ic_common_close_round_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_close_round_green.png"
+  },
+  "ic_common_close_round_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_close_round_light.png"
+  },
+  "ic_common_close_round_red1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_close_round_red1.png"
+  },
+  "ic_common_close_round_red2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_close_round_red2.png"
+  },
+  "ic_common_cmnd_back": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_cmnd_back.png"
+  },
+  "ic_common_cmnd_front": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_cmnd_front.png"
+  },
+  "ic_common_compass_filled_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_compass_filled_gray.png"
+  },
+  "ic_common_contact_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_contact_blue.png"
+  },
+  "ic_common_copy_outline_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_copy_outline_gray.png"
+  },
+  "ic_common_crashapp": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_crashapp.png"
+  },
+  "ic_common_date_range": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_date_range.png"
+  },
+  "ic_common_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_delete.png"
+  },
+  "ic_common_delete_box": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_delete_box.png"
+  },
+  "ic_common_delete_grey": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_delete_grey.png"
+  },
+  "ic_common_discount_outline_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_discount_outline_gray.png"
+  },
+  "ic_common_discount_outline_red": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_discount_outline_red.png"
+  },
+  "ic_common_dolla_round_outline_orange": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_dolla_round_outline_orange.png"
+  },
+  "ic_common_eating": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_eating.png"
+  },
+  "ic_common_edit_filled_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_edit_filled_blue.png"
+  },
+  "ic_common_edit_filled_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_edit_filled_gray.png"
+  },
+  "ic_common_edit_outline_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_edit_outline_gray.png"
+  },
+  "ic_common_email_outline_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_email_outline_gray.png"
+  },
+  "ic_common_faceid": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_faceid.png"
+  },
+  "ic_common_fail_outline_orange": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_fail_outline_orange.png"
+  },
+  "ic_common_filter_v1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_filter_v1.png"
+  },
+  "ic_common_filter_white_v1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_filter_white_v1.png"
+  },
+  "ic_common_giai_tri": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_giai_tri.png"
+  },
+  "ic_common_google_momo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_google_momo.png"
+  },
+  "ic_common_help_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_help_blue.png"
+  },
+  "ic_common_help_grey": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_help_grey.png"
+  },
+  "ic_common_help_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_help_light.png"
+  },
+  "ic_common_help_orange": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_help_orange.png"
+  },
+  "ic_common_home_grey": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_home_grey.png"
+  },
+  "ic_common_inbox_old_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_inbox_old_white.png"
+  },
+  "ic_common_info_outline_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_info_outline_gray_fatv2.png"
+  },
+  "ic_common_infor_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_infor_light.png"
+  },
+  "ic_common_internet_connection": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_internet_connection.png"
+  },
+  "ic_common_loaction_filled_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_loaction_filled_blue.png"
+  },
+  "ic_common_loading": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_loading.png"
+  },
+  "ic_common_local_filled_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_local_filled_blue.png"
+  },
+  "ic_common_local_filled_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_local_filled_dark.png"
+  },
+  "ic_common_location_occur_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_location_occur_blue.png"
+  },
+  "ic_common_location_occur_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_location_occur_gray.png"
+  },
+  "ic_common_lock_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_lock_light.png"
+  },
+  "ic_common_logo_apple_map": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_logo_apple_map.png"
+  },
+  "ic_common_logo_google_map": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_logo_google_map.png"
+  },
+  "ic_common_logo_momo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_logo_momo.png"
+  },
+  "ic_common_logo_momo_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_logo_momo_white.png"
+  },
+  "ic_common_logo_momo_white_big": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_logo_momo_white_big.png"
+  },
+  "ic_common_logo_momo_white_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_logo_momo_white_small.png"
+  },
+  "ic_common_master": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_master.png"
+  },
+  "ic_common_master_visa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_master_visa.png"
+  },
+  "ic_common_momo_logo_mini": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_momo_logo_mini.png"
+  },
+  "ic_common_money_bag_filled_red": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_money_bag_filled_red.png"
+  },
+  "ic_common_more": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_more.png"
+  },
+  "ic_common_more_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_more_dark.png"
+  },
+  "ic_common_more_outline_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_more_outline_white.png"
+  },
+  "ic_common_more_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_more_white.png"
+  },
+  "ic_common_notice": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_notice.png"
+  },
+  "ic_common_open_eye_filled_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_open_eye_filled_dark.png"
+  },
+  "ic_common_plus_grey": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_plus_grey.png"
+  },
+  "ic_common_plus_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_plus_white.png"
+  },
+  "ic_common_qr_code_gray_v1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_qr_code_gray_v1.png"
+  },
+  "ic_common_question": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_question.png"
+  },
+  "ic_common_question_mark_filled_gray_round": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_question_mark_filled_gray_round.png"
+  },
+  "ic_common_question_mark_outline_blue_round": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_question_mark_outline_blue_round.png"
+  },
+  "ic_common_question_mark_outline_gray_round": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_question_mark_outline_gray_round.png"
+  },
+  "ic_common_refresh_two_way_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_refresh_two_way_gray.png"
+  },
+  "ic_common_retake_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_retake_white.png"
+  },
+  "ic_common_scan_qr_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_scan_qr_gray.png"
+  },
+  "ic_common_scan_qr_round_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_scan_qr_round_blue.png"
+  },
+  "ic_common_search": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_search.png"
+  },
+  "ic_common_search_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_search_light.png"
+  },
+  "ic_common_search_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_search_white.png"
+  },
+  "ic_common_see_more_color_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_see_more_color_blue.png"
+  },
+  "ic_common_square_uncheck": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_square_uncheck.png"
+  },
+  "ic_common_success_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_success_green.png"
+  },
+  "ic_common_tick_green": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_tick_green.png"
+  },
+  "ic_common_tick_shield": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_tick_shield.png"
+  },
+  "ic_common_tick_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_tick_white.png"
+  },
+  "ic_common_tooltipmanual": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_tooltipmanual.png"
+  },
+  "ic_common_touchid": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_touchid.png"
+  },
+  "ic_common_unsucess": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_unsucess.png"
+  },
+  "ic_common_up_down_arrow_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_up_down_arrow_dark.png"
+  },
+  "ic_common_up_down_arrow_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_up_down_arrow_white.png"
+  },
+  "ic_common_visa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_visa.png"
+  },
+  "ic_common_warning": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_common_warning.png"
+  },
+  "ic_123phim": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_123phim.png"
+  },
+  "ic_2d": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_2d.png"
+  },
+  "ic_2d_lt": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_2d_lt.png"
+  },
+  "ic_3d": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_3d.png"
+  },
+  "ic_3d_lt": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_3d_lt.png"
+  },
+  "ic_4d": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_4d.png"
+  },
+  "ic_4d_lt": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_4d_lt.png"
+  },
+  "ic_account": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_account.png"
+  },
+  "ic_airplane_seat": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_airplane_seat.png"
+  },
+  "ic_baby": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_baby.png"
+  },
+  "ic_bed_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bed_disable.png"
+  },
+  "ic_bed_empty": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bed_empty.png"
+  },
+  "ic_bed_selecting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bed_selecting.png"
+  },
+  "ic_bill_pay_intro_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bill_pay_intro_2.png"
+  },
+  "ic_bill_pay_intro_3": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bill_pay_intro_3.png"
+  },
+  "ic_bill_pay_intro_4": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bill_pay_intro_4.png"
+  },
+  "ic_bill_pay_intro_5": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bill_pay_intro_5.png"
+  },
+  "ic_bkg_loading": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bkg_loading.png"
+  },
+  "ic_block_time": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_block_time.png"
+  },
+  "ic_bus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_bus.png"
+  },
+  "ic_buy_gift_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_buy_gift_card.png"
+  },
+  "ic_c13": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_c13.png"
+  },
+  "ic_c16": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_c16.png"
+  },
+  "ic_c18": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_c18.png"
+  },
+  "ic_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_card.png"
+  },
+  "ic_default": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_default.png"
+  },
+  "ic_dice1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_dice1.png"
+  },
+  "ic_dice2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_dice2.png"
+  },
+  "ic_dice3": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_dice3.png"
+  },
+  "ic_empty": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_empty.png"
+  },
+  "ic_fail": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_fail.png"
+  },
+  "ic_fail_face": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_fail_face.png"
+  },
+  "ic_fail_round": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_fail_round.png"
+  },
+  "ic_fb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_fb.png"
+  },
+  "ic_fb_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_fb_white.png"
+  },
+  "ic_fee_detail": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_fee_detail.png"
+  },
+  "ic_film_Pin": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_film_Pin.png"
+  },
+  "ic_film_hot": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_film_hot.png"
+  },
+  "ic_film_mega": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_film_mega.png"
+  },
+  "ic_flight": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight.png"
+  },
+  "ic_flight_down_filled_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_down_filled_dark.png"
+  },
+  "ic_flight_landing_filled_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_landing_filled_gray.png"
+  },
+  "ic_flight_left_filled_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_left_filled_dark.png"
+  },
+  "ic_flight_left_filled_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_left_filled_light.png"
+  },
+  "ic_flight_left_outline_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_left_outline_light.png"
+  },
+  "ic_flight_right_filled_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_right_filled_dark.png"
+  },
+  "ic_flight_right_filled_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_right_filled_light.png"
+  },
+  "ic_flight_right_outline_light": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_right_outline_light.png"
+  },
+  "ic_flight_take_off_filled_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_flight_take_off_filled_gray.png"
+  },
+  "ic_fly": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_fly.png"
+  },
+  "ic_get_gifts": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_get_gifts.png"
+  },
+  "ic_gift": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_gift.png"
+  },
+  "ic_gift_gif": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_gift_gif.gif"
+  },
+  "ic_gift_row": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_gift_row.png"
+  },
+  "ic_gift_tooltip": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_gift_tooltip.png"
+  },
+  "ic_group_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_group_add.png"
+  },
+  "ic_img_billpaid": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_img_billpaid.png"
+  },
+  "ic_info": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_info.png"
+  },
+  "ic_jetstar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_jetstar.png"
+  },
+  "ic_justice1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_justice1.png"
+  },
+  "ic_justice2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_justice2.png"
+  },
+  "ic_kid": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_kid.png"
+  },
+  "ic_lavabo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_lavabo.png"
+  },
+  "ic_line_horizoltal": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_line_horizoltal.png"
+  },
+  "ic_line_vertical": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_line_vertical.png"
+  },
+  "ic_loading": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_loading.png"
+  },
+  "ic_location": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_location.png"
+  },
+  "ic_logo_airline": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_logo_airline.png"
+  },
+  "ic_logo_vietjet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_logo_vietjet.png"
+  },
+  "ic_loyalty_basic": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_loyalty_basic.png"
+  },
+  "ic_loyalty_gold": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_loyalty_gold.png"
+  },
+  "ic_loyalty_silver": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_loyalty_silver.png"
+  },
+  "ic_momo_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_momo_small.png"
+  },
+  "ic_money": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_money.png"
+  },
+  "ic_msg": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_msg.png"
+  },
+  "ic_near_gray": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_near_gray.png"
+  },
+  "ic_nearby": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_nearby.png"
+  },
+  "ic_no_img": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_no_img.png"
+  },
+  "ic_normal1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_normal1.png"
+  },
+  "ic_normal2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_normal2.png"
+  },
+  "ic_notfail": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_notfail.png"
+  },
+  "ic_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_off.png"
+  },
+  "ic_on": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_on.png"
+  },
+  "ic_order": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_order.gif"
+  },
+  "ic_other": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_other.png"
+  },
+  "ic_oversee": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_oversee.png"
+  },
+  "ic_p": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_p.png"
+  },
+  "ic_peoples_blue": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_peoples_blue.png"
+  },
+  "ic_peoples_dark": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_peoples_dark.png"
+  },
+  "ic_play_trailer": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_play_trailer.png"
+  },
+  "ic_processing": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_processing.png"
+  },
+  "ic_receive_money_step1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_receive_money_step1.png"
+  },
+  "ic_receive_money_step2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_receive_money_step2.png"
+  },
+  "ic_receive_money_step3": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_receive_money_step3.png"
+  },
+  "ic_reverse_seat_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_reverse_seat_disable.png"
+  },
+  "ic_reverse_seat_empty": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_reverse_seat_empty.png"
+  },
+  "ic_reverse_seat_selecting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_reverse_seat_selecting.png"
+  },
+  "ic_rollback": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_rollback.png"
+  },
+  "ic_save": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_save.png"
+  },
+  "ic_search_gift": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_search_gift.png"
+  },
+  "ic_seat": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat.png"
+  },
+  "ic_seat_chosen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_chosen.png"
+  },
+  "ic_seat_couple": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple.png"
+  },
+  "ic_seat_couple_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple_left.png"
+  },
+  "ic_seat_couple_left_chosen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple_left_chosen.png"
+  },
+  "ic_seat_couple_left_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple_left_disable.png"
+  },
+  "ic_seat_couple_left_unavailable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple_left_unavailable.png"
+  },
+  "ic_seat_couple_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple_right.png"
+  },
+  "ic_seat_couple_right_chosen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple_right_chosen.png"
+  },
+  "ic_seat_couple_right_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple_right_disable.png"
+  },
+  "ic_seat_couple_right_unavailable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_couple_right_unavailable.png"
+  },
+  "ic_seat_deluxe": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_deluxe.png"
+  },
+  "ic_seat_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_disable.png"
+  },
+  "ic_seat_disable_train": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_disable_train.png"
+  },
+  "ic_seat_empty": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_empty.png"
+  },
+  "ic_seat_exit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_exit.png"
+  },
+  "ic_seat_first_class": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_first_class.png"
+  },
+  "ic_seat_prestige": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_prestige.png"
+  },
+  "ic_seat_screen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_screen.png"
+  },
+  "ic_seat_selecting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_selecting.png"
+  },
+  "ic_seat_sofa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa.png"
+  },
+  "ic_seat_sofa_center": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_center.png"
+  },
+  "ic_seat_sofa_center_chosen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_center_chosen.png"
+  },
+  "ic_seat_sofa_center_unavailable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_center_unavailable.png"
+  },
+  "ic_seat_sofa_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_left.png"
+  },
+  "ic_seat_sofa_left_chosen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_left_chosen.png"
+  },
+  "ic_seat_sofa_left_unavailable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_left_unavailable.png"
+  },
+  "ic_seat_sofa_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_right.png"
+  },
+  "ic_seat_sofa_right_chosen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_right_chosen.png"
+  },
+  "ic_seat_sofa_right_unavailable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_sofa_right_unavailable.png"
+  },
+  "ic_seat_unavailable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_unavailable.png"
+  },
+  "ic_seat_vip": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_vip.png"
+  },
+  "ic_seat_way": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_way.png"
+  },
+  "ic_seat_way_white": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_seat_way_white.png"
+  },
+  "ic_star": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_star.png"
+  },
+  "ic_success": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_success.png"
+  },
+  "ic_success_round": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_success_round.png"
+  },
+  "ic_suggest": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_suggest.png"
+  },
+  "ic_ticket": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_ticket.png"
+  },
+  "ic_transfer_empty_1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_transfer_empty_1.png"
+  },
+  "ic_transfer_empty_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_transfer_empty_2.png"
+  },
+  "ic_transfer_empty_3": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_transfer_empty_3.png"
+  },
+  "ic_transfer_first": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_transfer_first.png"
+  },
+  "ic_trasfer_none_momo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_trasfer_none_momo.png"
+  },
+  "ic_vietjet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vietjet.png"
+  },
+  "ic_vietnamairline": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_vietnamairline.png"
+  },
+  "ic_wc": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_wc.png"
+  },
+  "ico_film_bhd": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ico_film_bhd.png"
+  },
+  "ico_film_cinestar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ico_film_cinestar.png"
+  },
+  "ico_film_galaxy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ico_film_galaxy.png"
+  },
+  "logo_jetstar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/logo_jetstar.png"
+  },
+  "avatar_nocontact": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/avatar_nocontact.png"
+  },
+  "ic_child": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_child.png"
+  },
+  "ic_combo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_combo.png"
+  },
+  "ic_contact": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_contact.png"
+  },
+  "ic_female": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_female.png"
+  },
+  "ic_male": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_male.png"
+  },
+  "ic_momo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_momo.png"
+  },
+  "ic_round_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_round_check.png"
+  },
+  "ic_round_red_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_round_red_check.png"
+  },
+  "ic_round_uncheck": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_round_uncheck.png"
+  },
+  "ic_service_abcinsurance": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_abcinsurance.jpg"
+  },
+  "ic_service_acs": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_acs.jpg"
+  },
+  "ic_service_air_ticket": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_air_ticket.png"
+  },
+  "ic_service_apartment": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_apartment.png"
+  },
+  "ic_service_appota": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_appota.png"
+  },
+  "ic_service_ba_gang": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_ba_gang.png"
+  },
+  "ic_service_banklink": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_banklink.png"
+  },
+  "ic_service_bao_viet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_bao_viet.png"
+  },
+  "ic_service_bill_pay": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_bill_pay.png"
+  },
+  "ic_service_bkav": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_bkav.jpeg"
+  },
+  "ic_service_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_card.png"
+  },
+  "ic_service_cash24": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_cash24.png"
+  },
+  "ic_service_cashawon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_cashawon.png"
+  },
+  "ic_service_cgv": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_cgv.png"
+  },
+  "ic_service_clipvn": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_clipvn.png"
+  },
+  "ic_service_codashop_steam": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_codashop_steam.png"
+  },
+  "ic_service_connecting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_connecting.png"
+  },
+  "ic_service_consumer_loan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_consumer_loan.png"
+  },
+  "ic_service_customer_service": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_customer_service.png"
+  },
+  "ic_service_daihocbachkhoa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_daihocbachkhoa.png"
+  },
+  "ic_service_doctordong": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_doctordong.png"
+  },
+  "ic_service_dongthapwater": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_dongthapwater.png"
+  },
+  "ic_service_duongsatvietnam": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_duongsatvietnam.png"
+  },
+  "ic_service_easy_credit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_easy_credit.png"
+  },
+  "ic_service_electric": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_electric.png"
+  },
+  "ic_service_entertaining": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_entertaining.png"
+  },
+  "ic_service_entertainment": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_entertainment.png"
+  },
+  "ic_service_evn_daklak": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_daklak.jpg"
+  },
+  "ic_service_evn_daknong": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_daknong.png"
+  },
+  "ic_service_evn_hanoi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_hanoi.jpg"
+  },
+  "ic_service_evn_hcm": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_hcm.png"
+  },
+  "ic_service_evn_khanhhoa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_khanhhoa.png"
+  },
+  "ic_service_evn_kontum": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_kontum.png"
+  },
+  "ic_service_evn_phuyen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_phuyen.png"
+  },
+  "ic_service_evn_quangnam": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_quangnam.png"
+  },
+  "ic_service_evn_spc": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_spc.png"
+  },
+  "ic_service_evn_telecom": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evn_telecom.png"
+  },
+  "ic_service_evndongnai": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evndongnai.png"
+  },
+  "ic_service_evnmientrung": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evnmientrung.jpg"
+  },
+  "ic_service_evnquangbinh": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evnquangbinh.png"
+  },
+  "ic_service_evnquangtri": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evnquangtri.png"
+  },
+  "ic_service_evnspc_dongnai": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_evnspc_dongnai.png"
+  },
+  "ic_service_feature": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_feature.png"
+  },
+  "ic_service_fecredit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_fecredit.png"
+  },
+  "ic_service_film": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_film.png"
+  },
+  "ic_service_film_ticket": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_film_ticket.png"
+  },
+  "ic_service_fimplus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_fimplus.png"
+  },
+  "ic_service_finizi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_finizi.png"
+  },
+  "ic_service_fpt_adsl": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_fpt_adsl.png"
+  },
+  "ic_service_fpt_game": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_fpt_game.png"
+  },
+  "ic_service_fptplay": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_fptplay.png"
+  },
+  "ic_service_funcard": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_funcard.png"
+  },
+  "ic_service_game_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_game_card.png"
+  },
+  "ic_service_game_topup": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_game_topup.png"
+  },
+  "ic_service_garena": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_garena.png"
+  },
+  "ic_service_gate_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_gate_card.png"
+  },
+  "ic_service_gmobile": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_gmobile.png"
+  },
+  "ic_service_google_play": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_google_play.png"
+  },
+  "ic_service_google_play_redeem": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_google_play_redeem.png"
+  },
+  "ic_service_gosucard": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_gosucard.png"
+  },
+  "ic_service_gotadi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_gotadi.png"
+  },
+  "ic_service_gotit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_gotit.png"
+  },
+  "ic_service_goviet_bike": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_goviet_bike.png"
+  },
+  "ic_service_grabbike": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_grabbike.png"
+  },
+  "ic_service_grabcar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_grabcar.png"
+  },
+  "ic_service_grocery": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_grocery.png"
+  },
+  "ic_service_hdsaison": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_hdsaison.png"
+  },
+  "ic_service_hoayeuthuong": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_hoayeuthuong.png"
+  },
+  "ic_service_home_credit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_home_credit.png"
+  },
+  "ic_service_hospital": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_hospital.png"
+  },
+  "ic_service_huewater": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_huewater.png"
+  },
+  "ic_service_insurance": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_insurance.png"
+  },
+  "ic_service_internet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_internet.png"
+  },
+  "ic_service_jetstar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_jetstar.png"
+  },
+  "ic_service_jupviec": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_jupviec.png"
+  },
+  "ic_service_kplus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_kplus.png"
+  },
+  "ic_service_kspersky": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_kspersky.png"
+  },
+  "ic_service_lac_viet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_lac_viet.png"
+  },
+  "ic_service_lalamove": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_lalamove.png"
+  },
+  "ic_service_logistic": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_logistic.png"
+  },
+  "ic_service_mcredit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_mcredit.png"
+  },
+  "ic_service_medicine_university": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_medicine_university.png"
+  },
+  "ic_service_mic": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_mic.png"
+  },
+  "ic_service_minh_chau_game": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_minh_chau_game.jpeg"
+  },
+  "ic_service_mirae_asset": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_mirae_asset.png"
+  },
+  "ic_service_mobi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_mobi.png"
+  },
+  "ic_service_mobile_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_mobile_card.png"
+  },
+  "ic_service_mobitv": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_mobitv.png"
+  },
+  "ic_service_money_request": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_money_request.png"
+  },
+  "ic_service_mykredit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_mykredit.png"
+  },
+  "ic_service_nhommua": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_nhommua.png"
+  },
+  "ic_service_nuocbenthanh": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_nuocbenthanh.jpg"
+  },
+  "ic_service_offline_payment": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_offline_payment.png"
+  },
+  "ic_service_on_credit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_on_credit.png"
+  },
+  "ic_service_oncash": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_oncash.png"
+  },
+  "ic_service_ongame": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_ongame.png"
+  },
+  "ic_service_online_payment": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_online_payment.png"
+  },
+  "ic_service_other_bills": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_other_bills.png"
+  },
+  "ic_service_paylate": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_paylate.png"
+  },
+  "ic_service_payment_merchant": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_payment_merchant.png"
+  },
+  "ic_service_payment_mobile": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_payment_mobile.png"
+  },
+  "ic_service_petrol": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_petrol.png"
+  },
+  "ic_service_petrolimex": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_petrolimex.png"
+  },
+  "ic_service_phone_topup": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_phone_topup.png"
+  },
+  "ic_service_phu_hoa_tan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_phu_hoa_tan.jpg"
+  },
+  "ic_service_prepay_mobile": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_prepay_mobile.png"
+  },
+  "ic_service_prudential_insurance": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_prudential_insurance.png"
+  },
+  "ic_service_pti": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_pti.jpg"
+  },
+  "ic_service_public_service": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_public_service.png"
+  },
+  "ic_service_raovat_vnexpress": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_raovat_vnexpress.png"
+  },
+  "ic_service_received_money": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_received_money.png"
+  },
+  "ic_service_scjlifeon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_scjlifeon.png"
+  },
+  "ic_service_sfone": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_sfone.png"
+  },
+  "ic_service_share": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_share.png"
+  },
+  "ic_service_shb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_shb.png"
+  },
+  "ic_service_shinhan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_shinhan.jpg"
+  },
+  "ic_service_shopping": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_shopping.png"
+  },
+  "ic_service_software_copyright": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_software_copyright.png"
+  },
+  "ic_service_sohacoin": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_sohacoin.png"
+  },
+  "ic_service_sontay": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_sontay.png"
+  },
+  "ic_service_spt": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_spt.png"
+  },
+  "ic_service_sst": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_sst.png"
+  },
+  "ic_service_tdwater": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_tdwater.png"
+  },
+  "ic_service_telephone_bill": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_telephone_bill.png"
+  },
+  "ic_service_television": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_television.png"
+  },
+  "ic_service_the_coffee_house": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_the_coffee_house.jpg"
+  },
+  "ic_service_ticket": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_ticket.png"
+  },
+  "ic_service_tiki": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_tiki.png"
+  },
+  "ic_service_tima": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_tima.png"
+  },
+  "ic_service_topup_": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_topup_.png"
+  },
+  "ic_service_topup_danet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_topup_danet.png"
+  },
+  "ic_service_topup_mobile": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_topup_mobile.png"
+  },
+  "ic_service_tpbank": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_tpbank.png"
+  },
+  "ic_service_train_ticket": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_train_ticket.png"
+  },
+  "ic_service_transfer_money": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_transfer_money.png"
+  },
+  "ic_service_transfer_received_money": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_transfer_received_money.png"
+  },
+  "ic_service_transport": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_transport.png"
+  },
+  "ic_service_tvnet_bill": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_tvnet_bill.png"
+  },
+  "ic_service_ucash": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_ucash.png"
+  },
+  "ic_service_unilever": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_unilever.png"
+  },
+  "ic_service_vcard": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vcard.png"
+  },
+  "ic_service_vcoin": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vcoin.png"
+  },
+  "ic_service_vetc": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vetc.png"
+  },
+  "ic_service_vexere": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vexere.png"
+  },
+  "ic_service_vic_taxi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vic_taxi.png"
+  },
+  "ic_service_viet_credit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_viet_credit.png"
+  },
+  "ic_service_vietjetair": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vietjetair.png"
+  },
+  "ic_service_vietnam_airlines": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vietnam_airlines.png"
+  },
+  "ic_service_vietnamoblie": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vietnamoblie.jpeg"
+  },
+  "ic_service_viettel": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_viettel.png"
+  },
+  "ic_service_vina": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vina.png"
+  },
+  "ic_service_vnpt": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vnpt.png"
+  },
+  "ic_service_vntrip": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vntrip.png"
+  },
+  "ic_service_vtc_digital": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vtc_digital.png"
+  },
+  "ic_service_vtvcab": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vtvcab.png"
+  },
+  "ic_service_vxugame": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_vxugame.jpg"
+  },
+  "ic_service_water": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_water.png"
+  },
+  "ic_service_water_cholon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_water_cholon.png"
+  },
+  "ic_service_water_danang": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_water_danang.png"
+  },
+  "ic_service_water_giadinh": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_water_giadinh.png"
+  },
+  "ic_service_water_hcm": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_water_hcm.png"
+  },
+  "ic_service_water_nhabe": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_water_nhabe.png"
+  },
+  "ic_service_water_tan_hoa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_water_tan_hoa.png"
+  },
+  "ic_service_water_trungan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_water_trungan.jpg"
+  },
+  "ic_service_zing_official": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_image/ic_service_zing_official.png"
+  }
+}

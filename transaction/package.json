@@ -1,0 +1,19 @@
+{
+  "name": "@momo-kits/transaction",
+  "version": "0.0.43-beta.2",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.55",
+    "prop-types": "^15.7.2",
+    "react": "16.9.0",
+    "lodash": "^4.17.15",
+    "@momo-kits/core": ">=0.0.5-beta",
+    "moment": "^2.24.0",
+    "@momo-kits/separator": ">=0.0.14",
+    "@momo-kits/message": ">=0.0.14"
+  },
+  "devDependencies": {},
+  "license": "MoMo"
+}

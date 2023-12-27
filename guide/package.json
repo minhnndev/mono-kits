@@ -1,0 +1,20 @@
+{
+  "name": "@momo-kits/guide",
+  "version": "0.0.48-rc.4",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "@momo-kits/separator": "latest",
+    "@momo-kits/scrollable-tab-view": "latest",
+    "@momo-kits/html-view": "latest",
+    "lodash": "^4.17.15"
+  },
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": ">=0.55",
+    "prop-types": "^15.7.2",
+    "@momo-kits/core": ">=0.0.5-beta"
+  },
+  "devDependencies": {},
+  "license": "MoMo"
+}

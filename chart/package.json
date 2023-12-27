@@ -1,0 +1,21 @@
+{
+  "name": "@momo-kits/chart",
+  "version": "0.0.48-rc.4",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "@momo-platform/utils": "^0.0.17",
+    "victory-native": "^36.2.0"
+  },
+  "peerDependencies": {
+    "@momo-kits/core": ">=0.0.4-beta",
+    "prop-types": "^15.7.2",
+    "react": "16.9.0",
+    "react-native": ">=0.55",
+    "react-native-svg": "git+https://gitlab.com/momo-platform/react-native-svg.git#v12.1.0.public"
+  },
+  "devDependencies": {
+    "react-native-svg": "git+https://gitlab.com/momo-platform/react-native-svg.git#v12.1.0.public"
+  },
+  "license": "MoMo"
+}

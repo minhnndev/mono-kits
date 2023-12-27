@@ -1,0 +1,2450 @@
+{
+  "16_arrow_arrow_bold_forward_all": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_bold_forward_all.png"
+  },
+  "16_arrow_arrow_bold_forward": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_bold_forward.png"
+  },
+  "16_arrow_arrow_bold_redo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_bold_redo.png"
+  },
+  "16_arrow_arrow_bold_reply_all": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_bold_reply_all.png"
+  },
+  "16_arrow_arrow_bold_reply": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_bold_reply.png"
+  },
+  "16_arrow_arrow_bold_undo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_bold_undo.png"
+  },
+  "16_arrow_arrow_forward": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_forward.png"
+  },
+  "16_arrow_arrow_redo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_redo.png"
+  },
+  "16_arrow_arrow_reply": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_reply.png"
+  },
+  "16_arrow_arrow_undo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_arrow_undo.png"
+  },
+  "16_arrow_chevron_down_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevron_down_small.png"
+  },
+  "16_arrow_chevron_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevron_down.png"
+  },
+  "16_arrow_chevron_left_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevron_left_small.png"
+  },
+  "16_arrow_chevron_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevron_left.png"
+  },
+  "16_arrow_chevron_right_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevron_right_small.png"
+  },
+  "16_arrow_chevron_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevron_right.png"
+  },
+  "16_arrow_chevron_up_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevron_up_small.png"
+  },
+  "16_arrow_chevron_up": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevron_up.png"
+  },
+  "16_arrow_chevrons_double_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevrons_double_down.png"
+  },
+  "16_arrow_chevrons_double_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevrons_double_left.png"
+  },
+  "16_arrow_chevrons_double_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevrons_double_right.png"
+  },
+  "16_arrow_chevrons_double_up": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_chevrons_double_up.png"
+  },
+  "16_arrow_circle_chevron_bottom": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_chevron_bottom.png"
+  },
+  "16_arrow_circle_chevron_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_chevron_left.png"
+  },
+  "16_arrow_circle_chevron_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_chevron_right.png"
+  },
+  "16_arrow_circle_chevron_top": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_chevron_top.png"
+  },
+  "16_arrow_circle_chevrons_double_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_chevrons_double_down.png"
+  },
+  "16_arrow_circle_chevrons_double_up": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_chevrons_double_up.png"
+  },
+  "16_arrow_circle_chevrons_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_chevrons_left.png"
+  },
+  "16_arrow_circle_chevrons_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_chevrons_right.png"
+  },
+  "16_arrow_circle_redo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_redo.png"
+  },
+  "16_arrow_circle_undo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_circle_undo.png"
+  },
+  "16_arrow_diagonals_bltr": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_diagonals_bltr.png"
+  },
+  "16_arrow_diagonals_tlbr": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_diagonals_tlbr.png"
+  },
+  "16_arrow_diagonals": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_diagonals.png"
+  },
+  "16_arrow_hv": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_hv.png"
+  },
+  "16_arrow_redo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_redo.png"
+  },
+  "16_arrow_refresh_ccw_alert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_refresh_ccw_alert.png"
+  },
+  "16_arrow_refresh_ccw": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_refresh_ccw.png"
+  },
+  "16_arrow_rotate_ccw": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_rotate_ccw.png"
+  },
+  "16_arrow_rotate_cw": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_rotate_cw.png"
+  },
+  "16_arrow_undo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_arrow_undo.png"
+  },
+  "24_arrow_arrow_bold_forward_all": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_bold_forward_all.png"
+  },
+  "24_arrow_arrow_bold_forward": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_bold_forward.png"
+  },
+  "24_arrow_arrow_bold_redo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_bold_redo.png"
+  },
+  "24_arrow_arrow_bold_reply_all": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_bold_reply_all.png"
+  },
+  "24_arrow_arrow_bold_reply": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_bold_reply.png"
+  },
+  "24_arrow_arrow_bold_undo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_bold_undo.png"
+  },
+  "24_arrow_arrow_forward": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_forward.png"
+  },
+  "24_arrow_arrow_redo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_redo.png"
+  },
+  "24_arrow_arrow_reply": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_reply.png"
+  },
+  "24_arrow_arrow_undo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_arrow_undo.png"
+  },
+  "24_arrow_chevron_down_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevron_down_small.png"
+  },
+  "24_arrow_chevron_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevron_down.png"
+  },
+  "24_arrow_chevron_left_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevron_left_small.png"
+  },
+  "24_arrow_chevron_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevron_left.png"
+  },
+  "24_arrow_chevron_right_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevron_right_small.png"
+  },
+  "24_arrow_chevron_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevron_right.png"
+  },
+  "24_arrow_chevron_up_small": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevron_up_small.png"
+  },
+  "24_arrow_chevron_up": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevron_up.png"
+  },
+  "24_arrow_chevrons_double_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevrons_double_down.png"
+  },
+  "24_arrow_chevrons_double_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevrons_double_left.png"
+  },
+  "24_arrow_chevrons_double_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevrons_double_right.png"
+  },
+  "24_arrow_chevrons_double_up": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_chevrons_double_up.png"
+  },
+  "24_arrow_circle_chevron_bottom": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_chevron_bottom.png"
+  },
+  "24_arrow_circle_chevron_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_chevron_left.png"
+  },
+  "24_arrow_circle_chevron_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_chevron_right.png"
+  },
+  "24_arrow_circle_chevron_top": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_chevron_top.png"
+  },
+  "24_arrow_circle_chevrons_double_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_chevrons_double_down.png"
+  },
+  "24_arrow_circle_chevrons_double_up": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_chevrons_double_up.png"
+  },
+  "24_arrow_circle_chevrons_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_chevrons_left.png"
+  },
+  "24_arrow_circle_chevrons_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_chevrons_right.png"
+  },
+  "24_arrow_circle_redo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_redo.png"
+  },
+  "24_arrow_circle_undo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_circle_undo.png"
+  },
+  "24_arrow_diagonals_bltr": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_diagonals_bltr.png"
+  },
+  "24_arrow_diagonals_tlbr": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_diagonals_tlbr.png"
+  },
+  "24_arrow_diagonals": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_diagonals.png"
+  },
+  "24_arrow_hv": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_hv.png"
+  },
+  "24_arrow_redo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_redo.png"
+  },
+  "24_arrow_refresh_ccw_alert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_refresh_ccw_alert.png"
+  },
+  "24_arrow_refresh_ccw": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_refresh_ccw.png"
+  },
+  "24_arrow_rotate_ccw": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_rotate_ccw.png"
+  },
+  "24_arrow_rotate_cw": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_rotate_cw.png"
+  },
+  "24_arrow_undo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_arrow_undo.png"
+  },
+  "16_basic_account": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_account.png"
+  },
+  "16_basic_chart_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_chart_down.png"
+  },
+  "16_basic_chart_up": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_chart_up.png"
+  },
+  "16_basic_chart": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_chart.png"
+  },
+  "16_basic_copy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_copy.png"
+  },
+  "16_basic_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_delete.png"
+  },
+  "16_basic_duplicate": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_duplicate.png"
+  },
+  "16_basic_filter": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_filter.png"
+  },
+  "16_basic_flag": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_flag.png"
+  },
+  "16_basic_home": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_home.png"
+  },
+  "16_basic_options": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_options.png"
+  },
+  "16_basic_person_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_person_add.png"
+  },
+  "16_basic_person_group": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_person_group.png"
+  },
+  "16_basic_person": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_person.png"
+  },
+  "16_basic_power": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_power.png"
+  },
+  "16_basic_screen_rotation_lock": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_screen_rotation_lock.png"
+  },
+  "16_basic_screen_rotation": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_screen_rotation.png"
+  },
+  "16_basic_setting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_setting.png"
+  },
+  "16_basic_sort_a_z": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_sort_a_z.png"
+  },
+  "16_basic_sorting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_sorting.png"
+  },
+  "16_basic_ticket_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_ticket_full.png"
+  },
+  "16_basic_ticket_star_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_ticket_star_full.png"
+  },
+  "16_basic_ticket_star": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_ticket_star.png"
+  },
+  "16_basic_ticket": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_basic_ticket.png"
+  },
+  "24_basic_account": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_account.png"
+  },
+  "24_basic_chart_down": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_chart_down.png"
+  },
+  "24_basic_chart_up": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_chart_up.png"
+  },
+  "24_basic_chart": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_chart.png"
+  },
+  "24_basic_copy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_copy.png"
+  },
+  "24_basic_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_delete.png"
+  },
+  "24_basic_duplicate": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_duplicate.png"
+  },
+  "24_basic_filter": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_filter.png"
+  },
+  "24_basic_flag": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_flag.png"
+  },
+  "24_basic_home": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_home.png"
+  },
+  "24_basic_options": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_options.png"
+  },
+  "24_basic_person_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_person_add.png"
+  },
+  "24_basic_person_group": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_person_group.png"
+  },
+  "24_basic_person": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_person.png"
+  },
+  "24_basic_power": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_power.png"
+  },
+  "24_basic_screen_rotation_lock": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_screen_rotation_lock.png"
+  },
+  "24_basic_screen_rotation": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_screen_rotation.png"
+  },
+  "24_basic_setting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_setting.png"
+  },
+  "24_basic_sort_a_z": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_sort_a_z.png"
+  },
+  "24_basic_sorting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_sorting.png"
+  },
+  "24_basic_ticket_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_ticket_full.png"
+  },
+  "24_basic_ticket_star_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_ticket_star_full.png"
+  },
+  "24_basic_ticket_star": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_ticket_star.png"
+  },
+  "24_basic_ticket": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_basic_ticket.png"
+  },
+  "16_chatting_comment_alert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_comment_alert.png"
+  },
+  "16_chatting_comment_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_comment_checked.png"
+  },
+  "16_chatting_comment_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_comment_delete.png"
+  },
+  "16_chatting_comment_empty": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_comment_empty.png"
+  },
+  "16_chatting_comment_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_comment_minus.png"
+  },
+  "16_chatting_comment_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_comment_plus.png"
+  },
+  "16_chatting_comment": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_comment.png"
+  },
+  "16_chatting_q_and_a": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_q_and_a.png"
+  },
+  "16_chatting_sent": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_chatting_sent.png"
+  },
+  "24_chatting_comment_alert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_comment_alert.png"
+  },
+  "24_chatting_comment_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_comment_checked.png"
+  },
+  "24_chatting_comment_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_comment_delete.png"
+  },
+  "24_chatting_comment_empty": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_comment_empty.png"
+  },
+  "24_chatting_comment_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_comment_minus.png"
+  },
+  "24_chatting_comment_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_comment_plus.png"
+  },
+  "24_chatting_comment": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_comment.png"
+  },
+  "24_chatting_q_and_a": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_q_and_a.png"
+  },
+  "24_chatting_sent": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_chatting_sent.png"
+  },
+  "16_connection_airplay": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_airplay.png"
+  },
+  "16_connection_bluetooth_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_bluetooth_no.png"
+  },
+  "16_connection_bluetooth": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_bluetooth.png"
+  },
+  "16_connection_broadcast": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_broadcast.png"
+  },
+  "16_connection_broadcasting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_broadcasting.png"
+  },
+  "16_connection_cast": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_cast.png"
+  },
+  "16_connection_link_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_link_disable.png"
+  },
+  "16_connection_link": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_link.png"
+  },
+  "16_connection_share_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_share_2.png"
+  },
+  "16_connection_share": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_share.png"
+  },
+  "16_connection_wi_fi_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_wi_fi_no.png"
+  },
+  "16_connection_wi_fi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_connection_wi_fi.png"
+  },
+  "24_connection_airplay": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_airplay.png"
+  },
+  "24_connection_bluetooth_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_bluetooth_no.png"
+  },
+  "24_connection_bluetooth": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_bluetooth.png"
+  },
+  "24_connection_broadcast": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_broadcast.png"
+  },
+  "24_connection_broadcasting": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_broadcasting.png"
+  },
+  "24_connection_cast": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_cast.png"
+  },
+  "24_connection_link_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_link_disable.png"
+  },
+  "24_connection_link": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_link.png"
+  },
+  "24_connection_share_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_share_2.png"
+  },
+  "24_connection_share": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_share.png"
+  },
+  "24_connection_wi_fi_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_wi_fi_no.png"
+  },
+  "24_connection_wi_fi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_connection_wi_fi.png"
+  },
+  "16_file_briefcase": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_briefcase.png"
+  },
+  "16_file_clipboard_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_clipboard_checked.png"
+  },
+  "16_file_clipboard_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_clipboard_delete.png"
+  },
+  "16_file_clipboard_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_clipboard_minus.png"
+  },
+  "16_file_clipboard_note": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_clipboard_note.png"
+  },
+  "16_file_clipboard_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_clipboard_plus.png"
+  },
+  "16_file_clipboard": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_clipboard.png"
+  },
+  "16_file_cloud_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_cloud_checked.png"
+  },
+  "16_file_cloud_connect": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_cloud_connect.png"
+  },
+  "16_file_cloud_download": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_cloud_download.png"
+  },
+  "16_file_cloud_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_cloud_no.png"
+  },
+  "16_file_cloud_upload": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_cloud_upload.png"
+  },
+  "16_file_cloud": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_cloud.png"
+  },
+  "16_file_code": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_code.png"
+  },
+  "16_file_database": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_database.png"
+  },
+  "16_file_edit_in_box": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_edit_in_box.png"
+  },
+  "16_file_edit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_edit.png"
+  },
+  "16_file_file_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_checked.png"
+  },
+  "16_file_file_code": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_code.png"
+  },
+  "16_file_file_create": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_create.png"
+  },
+  "16_file_file_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_delete.png"
+  },
+  "16_file_file_download": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_download.png"
+  },
+  "16_file_file_draft": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_draft.png"
+  },
+  "16_file_file_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_minus.png"
+  },
+  "16_file_file_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_plus.png"
+  },
+  "16_file_file_scan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_scan.png"
+  },
+  "16_file_file_search": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_search.png"
+  },
+  "16_file_file_shredder": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_shredder.png"
+  },
+  "16_file_file_text": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_text.png"
+  },
+  "16_file_file_upload": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file_upload.png"
+  },
+  "16_file_file": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_file.png"
+  },
+  "16_file_folder_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_checked.png"
+  },
+  "16_file_folder_cloud": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_cloud.png"
+  },
+  "16_file_folder_create": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_create.png"
+  },
+  "16_file_folder_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_delete.png"
+  },
+  "16_file_folder_forward": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_forward.png"
+  },
+  "16_file_folder_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_minus.png"
+  },
+  "16_file_folder_music": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_music.png"
+  },
+  "16_file_folder_opened": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_opened.png"
+  },
+  "16_file_folder_photo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_photo.png"
+  },
+  "16_file_folder_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_plus.png"
+  },
+  "16_file_folder_zip": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder_zip.png"
+  },
+  "16_file_folder": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_folder.png"
+  },
+  "16_file_mail": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_mail.png"
+  },
+  "16_file_paperclip_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_paperclip_no.png"
+  },
+  "16_file_paperclip": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_file_paperclip.png"
+  },
+  "24_file_briefcase": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_briefcase.png"
+  },
+  "24_file_clipboard_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_clipboard_checked.png"
+  },
+  "24_file_clipboard_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_clipboard_delete.png"
+  },
+  "24_file_clipboard_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_clipboard_minus.png"
+  },
+  "24_file_clipboard_note": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_clipboard_note.png"
+  },
+  "24_file_clipboard_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_clipboard_plus.png"
+  },
+  "24_file_clipboard": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_clipboard.png"
+  },
+  "24_file_cloud_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_cloud_checked.png"
+  },
+  "24_file_cloud_connect": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_cloud_connect.png"
+  },
+  "24_file_cloud_download": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_cloud_download.png"
+  },
+  "24_file_cloud_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_cloud_no.png"
+  },
+  "24_file_cloud_upload": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_cloud_upload.png"
+  },
+  "24_file_cloud": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_cloud.png"
+  },
+  "24_file_code": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_code.png"
+  },
+  "24_file_database": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_database.png"
+  },
+  "24_file_edit_in_box": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_edit_in_box.png"
+  },
+  "24_file_edit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_edit.png"
+  },
+  "24_file_file_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_checked.png"
+  },
+  "24_file_file_code": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_code.png"
+  },
+  "24_file_file_create": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_create.png"
+  },
+  "24_file_file_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_delete.png"
+  },
+  "24_file_file_download": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_download.png"
+  },
+  "24_file_file_draft": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_draft.png"
+  },
+  "24_file_file_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_minus.png"
+  },
+  "24_file_file_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_plus.png"
+  },
+  "24_file_file_scan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_scan.png"
+  },
+  "24_file_file_search": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_search.png"
+  },
+  "24_file_file_shredder": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_shredder.png"
+  },
+  "24_file_file_text": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_text.png"
+  },
+  "24_file_file_upload": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file_upload.png"
+  },
+  "24_file_file": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_file.png"
+  },
+  "24_file_folder_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_checked.png"
+  },
+  "24_file_folder_cloud": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_cloud.png"
+  },
+  "24_file_folder_create": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_create.png"
+  },
+  "24_file_folder_delete": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_delete.png"
+  },
+  "24_file_folder_forward": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_forward.png"
+  },
+  "24_file_folder_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_minus.png"
+  },
+  "24_file_folder_music": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_music.png"
+  },
+  "24_file_folder_opened": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_opened.png"
+  },
+  "24_file_folder_photo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_photo.png"
+  },
+  "24_file_folder_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_plus.png"
+  },
+  "24_file_folder_zip": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder_zip.png"
+  },
+  "24_file_folder": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_folder.png"
+  },
+  "24_file_mail": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_mail.png"
+  },
+  "24_file_paperclip_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_paperclip_no.png"
+  },
+  "24_file_paperclip": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_file_paperclip.png"
+  },
+  "16_finance_atm": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_atm.png"
+  },
+  "16_finance_card_1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_card_1.png"
+  },
+  "16_finance_card_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_card_2.png"
+  },
+  "16_finance_card_jcb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_card_jcb.png"
+  },
+  "16_finance_card_master": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_card_master.png"
+  },
+  "16_finance_card_visa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_card_visa.png"
+  },
+  "16_finance_jcb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_jcb.png"
+  },
+  "16_finance_master": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_master.png"
+  },
+  "16_finance_paypass": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_paypass.png"
+  },
+  "16_finance_safe": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_safe.png"
+  },
+  "16_finance_visa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_visa.png"
+  },
+  "16_finance_wallet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_finance_wallet.png"
+  },
+  "24_finance_atm": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_atm.png"
+  },
+  "24_finance_card_1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_card_1.png"
+  },
+  "24_finance_card_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_card_2.png"
+  },
+  "24_finance_card_jcb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_card_jcb.png"
+  },
+  "24_finance_card_master": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_card_master.png"
+  },
+  "24_finance_card_visa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_card_visa.png"
+  },
+  "24_finance_jcb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_jcb.png"
+  },
+  "24_finance_master": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_master.png"
+  },
+  "24_finance_paypass": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_paypass.png"
+  },
+  "24_finance_safe": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_safe.png"
+  },
+  "24_finance_visa": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_visa.png"
+  },
+  "24_finance_wallet": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_finance_wallet.png"
+  },
+  "16_gadgets_devices": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_devices.png"
+  },
+  "16_gadgets_ipad": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_ipad.png"
+  },
+  "16_gadgets_iphone": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_iphone.png"
+  },
+  "16_gadgets_keyboard": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_keyboard.png"
+  },
+  "16_gadgets_laptop": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_laptop.png"
+  },
+  "16_gadgets_memory_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_memory_card.png"
+  },
+  "16_gadgets_mobile": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_mobile.png"
+  },
+  "16_gadgets_monitor": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_monitor.png"
+  },
+  "16_gadgets_mouse": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_mouse.png"
+  },
+  "16_gadgets_print": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_print.png"
+  },
+  "16_gadgets_server": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_server.png"
+  },
+  "16_gadgets_soft_disk": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_soft_disk.png"
+  },
+  "16_gadgets_usb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_gadgets_usb.png"
+  },
+  "24_gadgets_devices": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_devices.png"
+  },
+  "24_gadgets_ipad": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_ipad.png"
+  },
+  "24_gadgets_iphone": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_iphone.png"
+  },
+  "24_gadgets_keyboard": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_keyboard.png"
+  },
+  "24_gadgets_laptop": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_laptop.png"
+  },
+  "24_gadgets_memory_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_memory_card.png"
+  },
+  "24_gadgets_mobile": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_mobile.png"
+  },
+  "24_gadgets_monitor": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_monitor.png"
+  },
+  "24_gadgets_mouse": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_mouse.png"
+  },
+  "24_gadgets_print": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_print.png"
+  },
+  "24_gadgets_server": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_server.png"
+  },
+  "24_gadgets_soft_disk": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_soft_disk.png"
+  },
+  "24_gadgets_usb": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_gadgets_usb.png"
+  },
+  "16_maps_360": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_360.png"
+  },
+  "16_maps_compass": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_compass.png"
+  },
+  "16_maps_direction_45": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_direction_45.png"
+  },
+  "16_maps_direction": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_direction.png"
+  },
+  "16_maps_globe": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_globe.png"
+  },
+  "16_maps_location_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_location_no.png"
+  },
+  "16_maps_location": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_location.png"
+  },
+  "16_maps_map_pin_location": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_map_pin_location.png"
+  },
+  "16_maps_map": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_map.png"
+  },
+  "16_maps_panorama": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_panorama.png"
+  },
+  "16_maps_pin_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_pin_add.png"
+  },
+  "16_maps_pin_edit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_pin_edit.png"
+  },
+  "16_maps_pin_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_pin_no.png"
+  },
+  "16_maps_pin_question": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_pin_question.png"
+  },
+  "16_maps_pin_round": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_pin_round.png"
+  },
+  "16_maps_pin_start": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_pin_start.png"
+  },
+  "16_maps_pin": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_pin.png"
+  },
+  "16_maps_radar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_radar.png"
+  },
+  "16_maps_route": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_route.png"
+  },
+  "16_maps_zoom_in": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_zoom_in.png"
+  },
+  "16_maps_zoom_out": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_maps_zoom_out.png"
+  },
+  "24_maps_360": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_360.png"
+  },
+  "24_maps_compass": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_compass.png"
+  },
+  "24_maps_direction_45": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_direction_45.png"
+  },
+  "24_maps_direction": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_direction.png"
+  },
+  "24_maps_globe": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_globe.png"
+  },
+  "24_maps_location_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_location_no.png"
+  },
+  "24_maps_location": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_location.png"
+  },
+  "24_maps_map_pin_location": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_map_pin_location.png"
+  },
+  "24_maps_map": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_map.png"
+  },
+  "24_maps_panorama": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_panorama.png"
+  },
+  "24_maps_pin_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_pin_add.png"
+  },
+  "24_maps_pin_edit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_pin_edit.png"
+  },
+  "24_maps_pin_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_pin_no.png"
+  },
+  "24_maps_pin_question": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_pin_question.png"
+  },
+  "24_maps_pin_round": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_pin_round.png"
+  },
+  "24_maps_pin_start": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_pin_start.png"
+  },
+  "24_maps_pin": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_pin.png"
+  },
+  "24_maps_radar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_radar.png"
+  },
+  "24_maps_route": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_route.png"
+  },
+  "24_maps_zoom_in": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_zoom_in.png"
+  },
+  "24_maps_zoom_out": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_maps_zoom_out.png"
+  },
+  "16_media_camera_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_camera_add.png"
+  },
+  "16_media_camera_linked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_camera_linked.png"
+  },
+  "16_media_camera_switch": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_camera_switch.png"
+  },
+  "16_media_camera": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_camera.png"
+  },
+  "16_media_cd": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_cd.png"
+  },
+  "16_media_color_picker": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_color_picker.png"
+  },
+  "16_media_control_point": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_control_point.png"
+  },
+  "16_media_flash_auto": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_flash_auto.png"
+  },
+  "16_media_flash_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_flash_off.png"
+  },
+  "16_media_flash_on": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_flash_on.png"
+  },
+  "16_media_flashlight_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_flashlight_disable.png"
+  },
+  "16_media_focus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_focus.png"
+  },
+  "16_media_leak_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_leak_add.png"
+  },
+  "16_media_media_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_media_add.png"
+  },
+  "16_media_media_collection": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_media_collection.png"
+  },
+  "16_media_media_search": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_media_search.png"
+  },
+  "16_media_media": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_media.png"
+  },
+  "16_media_player_pause_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_player_pause_circle.png"
+  },
+  "16_media_player_play_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_player_play_circle.png"
+  },
+  "16_media_player_stop_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_player_stop_circle.png"
+  },
+  "16_media_repeat": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_repeat.png"
+  },
+  "16_media_rotate_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_rotate_left.png"
+  },
+  "16_media_rotate_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_rotate_right.png"
+  },
+  "16_media_shuffle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_shuffle.png"
+  },
+  "16_media_shutter_speed": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_shutter_speed.png"
+  },
+  "16_media_slideshow": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_slideshow.png"
+  },
+  "16_media_timelapse": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_timelapse.png"
+  },
+  "16_media_timer_3s": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_timer_3s.png"
+  },
+  "16_media_timer_10s": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_timer_10s.png"
+  },
+  "16_media_timer_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_timer_off.png"
+  },
+  "16_media_timer": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_timer.png"
+  },
+  "16_media_video": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_video.png"
+  },
+  "16_media_volume_high": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_volume_high.png"
+  },
+  "16_media_volume_low": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_volume_low.png"
+  },
+  "16_media_volume_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_volume_no.png"
+  },
+  "16_media_volume_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_volume_off.png"
+  },
+  "16_media_volume": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_media_volume.png"
+  },
+  "24_media_camera_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_camera_add.png"
+  },
+  "24_media_camera_linked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_camera_linked.png"
+  },
+  "24_media_camera_switch": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_camera_switch.png"
+  },
+  "24_media_camera": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_camera.png"
+  },
+  "24_media_cd": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_cd.png"
+  },
+  "24_media_color_picker": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_color_picker.png"
+  },
+  "24_media_control_point": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_control_point.png"
+  },
+  "24_media_flash_auto": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_flash_auto.png"
+  },
+  "24_media_flash_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_flash_off.png"
+  },
+  "24_media_flash_on": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_flash_on.png"
+  },
+  "24_media_flashlight_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_flashlight_disable.png"
+  },
+  "24_media_flashlight_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_flashlight_off.png"
+  },
+  "24_media_flashlight_on": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_flashlight_on.png"
+  },
+  "24_media_focus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_focus.png"
+  },
+  "24_media_leak_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_leak_add.png"
+  },
+  "24_media_media_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_media_add.png"
+  },
+  "24_media_media_collection": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_media_collection.png"
+  },
+  "24_media_media_search": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_media_search.png"
+  },
+  "24_media_media": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_media.png"
+  },
+  "24_media_player_pause_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_player_pause_circle.png"
+  },
+  "24_media_player_play_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_player_play_circle.png"
+  },
+  "24_media_player_stop_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_player_stop_circle.png"
+  },
+  "24_media_repeat": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_repeat.png"
+  },
+  "24_media_rotate_left": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_rotate_left.png"
+  },
+  "24_media_rotate_right": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_rotate_right.png"
+  },
+  "24_media_shuffle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_shuffle.png"
+  },
+  "24_media_shutter_speed": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_shutter_speed.png"
+  },
+  "24_media_slideshow": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_slideshow.png"
+  },
+  "24_media_timelapse": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_timelapse.png"
+  },
+  "24_media_timer_3s": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_timer_3s.png"
+  },
+  "24_media_timer_10s": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_timer_10s.png"
+  },
+  "24_media_timer_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_timer_off.png"
+  },
+  "24_media_timer": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_timer.png"
+  },
+  "24_media_video": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_video.png"
+  },
+  "24_media_volume_high": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_volume_high.png"
+  },
+  "24_media_volume_low": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_volume_low.png"
+  },
+  "24_media_volume_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_volume_no.png"
+  },
+  "24_media_volume_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_volume_off.png"
+  },
+  "24_media_volume": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_media_volume.png"
+  },
+  "momomain_account": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_account.png"
+  },
+  "momomain_barcode_s": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_barcode_s.png"
+  },
+  "momomain_barcode": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_barcode.png"
+  },
+  "momomain_chat": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_chat.png"
+  },
+  "momomain_gift": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_gift.png"
+  },
+  "momomain_history": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_history.png"
+  },
+  "momomain_momo": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_momo.png"
+  },
+  "momomain_money_in_s": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_money_in_s.png"
+  },
+  "momomain_money_in": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_money_in.png"
+  },
+  "momomain_scan_code_s": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_scan_code_s.png"
+  },
+  "momomain_scan_code": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_scan_code.png"
+  },
+  "momomain_withdraw_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_withdraw_2.png"
+  },
+  "momomain_withdraw": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/momomain_withdraw.png"
+  },
+  "16_navigation_app": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_app.png"
+  },
+  "16_navigation_cash_in": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_cash_in.png"
+  },
+  "16_navigation_close_circle_full_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_close_circle_full_2.png"
+  },
+  "16_navigation_close_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_close_circle_full.png"
+  },
+  "16_navigation_close_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_close_circle.png"
+  },
+  "16_navigation_close": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_close.png"
+  },
+  "16_navigation_full_screen_exit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_full_screen_exit.png"
+  },
+  "16_navigation_full_screen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_full_screen.png"
+  },
+  "16_navigation_log_out": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_log_out.png"
+  },
+  "16_navigation_menu": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_menu.png"
+  },
+  "16_navigation_minus_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_minus_circle_full.png"
+  },
+  "16_navigation_minus_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_minus_circle.png"
+  },
+  "16_navigation_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_minus.png"
+  },
+  "16_navigation_more_horiz": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_more_horiz.png"
+  },
+  "16_navigation_more_vert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_more_vert.png"
+  },
+  "16_navigation_plus_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_plus_circle_full.png"
+  },
+  "16_navigation_plus_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_plus_circle.png"
+  },
+  "16_navigation_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_plus.png"
+  },
+  "16_navigation_qrcode": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_qrcode.png"
+  },
+  "16_navigation_scan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_scan.png"
+  },
+  "16_navigation_search_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_search_add.png"
+  },
+  "16_navigation_search_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_search_minus.png"
+  },
+  "16_navigation_search": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_search.png"
+  },
+  "16_navigation_unfold_less": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_unfold_less.png"
+  },
+  "16_navigation_unfold_more": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_navigation_unfold_more.png"
+  },
+  "24_navigation_app": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_app.png"
+  },
+  "24_navigation_cash_in": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_cash_in.png"
+  },
+  "24_navigation_close_circle_full_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_close_circle_full_2.png"
+  },
+  "24_navigation_close_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_close_circle_full.png"
+  },
+  "24_navigation_close_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_close_circle.png"
+  },
+  "24_navigation_close": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_close.png"
+  },
+  "24_navigation_full_screen_exit": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_full_screen_exit.png"
+  },
+  "24_navigation_full_screen": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_full_screen.png"
+  },
+  "24_navigation_log_out": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_log_out.png"
+  },
+  "24_navigation_menu": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_menu.png"
+  },
+  "24_navigation_minus_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_minus_circle_full.png"
+  },
+  "24_navigation_minus_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_minus_circle.png"
+  },
+  "24_navigation_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_minus.png"
+  },
+  "24_navigation_more_horiz": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_more_horiz.png"
+  },
+  "24_navigation_more_vert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_more_vert.png"
+  },
+  "24_navigation_plus_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_plus_circle_full.png"
+  },
+  "24_navigation_plus_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_plus_circle.png"
+  },
+  "24_navigation_plus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_plus.png"
+  },
+  "24_navigation_qrcode": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_qrcode.png"
+  },
+  "24_navigation_scan": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_scan.png"
+  },
+  "24_navigation_search_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_search_add.png"
+  },
+  "24_navigation_search_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_search_minus.png"
+  },
+  "24_navigation_search": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_search.png"
+  },
+  "24_navigation_unfold_less": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_unfold_less.png"
+  },
+  "24_navigation_unfold_more": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_navigation_unfold_more.png"
+  },
+  "16_notifications_alert_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_alert_octagon.png"
+  },
+  "16_notifications_alert_triangle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_alert_triangle.png"
+  },
+  "16_notifications_app_notification": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_app_notification.png"
+  },
+  "16_notifications_bell_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_bell_add.png"
+  },
+  "16_notifications_bell_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_bell_checked.png"
+  },
+  "16_notifications_bell_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_bell_full.png"
+  },
+  "16_notifications_bell_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_bell_minus.png"
+  },
+  "16_notifications_bell_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_bell_no.png"
+  },
+  "16_notifications_bell": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_bell.png"
+  },
+  "16_notifications_check_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_check_circle_full.png"
+  },
+  "16_notifications_check_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_check_circle.png"
+  },
+  "16_notifications_check_double": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_check_double.png"
+  },
+  "16_notifications_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_check.png"
+  },
+  "16_notifications_circle_alert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_circle_alert.png"
+  },
+  "16_notifications_circle_question": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_circle_question.png"
+  },
+  "16_notifications_icon16_info": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_icon16_info.png"
+  },
+  "16_notifications_minus_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_minus_octagon.png"
+  },
+  "16_notifications_x_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_notifications_x_octagon.png"
+  },
+  "24_notifications_alert_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_alert_octagon.png"
+  },
+  "24_notifications_alert_triangle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_alert_triangle.png"
+  },
+  "24_notifications_app_notification": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_app_notification.png"
+  },
+  "24_notifications_bell_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_bell_add.png"
+  },
+  "24_notifications_bell_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_bell_checked.png"
+  },
+  "24_notifications_bell_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_bell_full.png"
+  },
+  "24_notifications_bell_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_bell_minus.png"
+  },
+  "24_notifications_bell_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_bell_no.png"
+  },
+  "24_notifications_bell": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_bell.png"
+  },
+  "24_notifications_check_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_check_circle_full.png"
+  },
+  "24_notifications_check_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_check_circle.png"
+  },
+  "24_notifications_check_double": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_check_double.png"
+  },
+  "24_notifications_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_check.png"
+  },
+  "24_notifications_circle_alert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_circle_alert.png"
+  },
+  "24_notifications_circle_question": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_circle_question.png"
+  },
+  "24_notifications_icon24_info": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_icon24_info.png"
+  },
+  "24_notifications_minus_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_minus_octagon.png"
+  },
+  "24_notifications_x_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_notifications_x_octagon.png"
+  },
+  "32_notifications_alert_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_alert_octagon.png"
+  },
+  "32_notifications_alert_triangle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_alert_triangle.png"
+  },
+  "32_notifications_app_notification": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_app_notification.png"
+  },
+  "32_notifications_bell_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_bell_add.png"
+  },
+  "32_notifications_bell_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_bell_checked.png"
+  },
+  "32_notifications_bell_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_bell_full.png"
+  },
+  "32_notifications_bell_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_bell_minus.png"
+  },
+  "32_notifications_bell_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_bell_no.png"
+  },
+  "32_notifications_bell": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_bell.png"
+  },
+  "32_notifications_check_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_check_circle_full.png"
+  },
+  "32_notifications_check_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_check_circle.png"
+  },
+  "32_notifications_check_double": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_check_double.png"
+  },
+  "32_notifications_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_check.png"
+  },
+  "32_notifications_circle_alert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_circle_alert.png"
+  },
+  "32_notifications_circle_question": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_circle_question.png"
+  },
+  "32_notifications_icon32_info": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_icon32_info.png"
+  },
+  "32_notifications_minus_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_minus_octagon.png"
+  },
+  "32_notifications_x_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/32_notifications_x_octagon.png"
+  },
+  "48_notifications_alert_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_alert_octagon.png"
+  },
+  "48_notifications_alert_triangle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_alert_triangle.png"
+  },
+  "48_notifications_app_notification": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_app_notification.png"
+  },
+  "48_notifications_bell_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_bell_add.png"
+  },
+  "48_notifications_bell_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_bell_checked.png"
+  },
+  "48_notifications_bell_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_bell_full.png"
+  },
+  "48_notifications_bell_minus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_bell_minus.png"
+  },
+  "48_notifications_bell_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_bell_no.png"
+  },
+  "48_notifications_bell": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_bell.png"
+  },
+  "48_notifications_check_circle_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_check_circle_full.png"
+  },
+  "48_notifications_check_circle": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_check_circle.png"
+  },
+  "48_notifications_check_double": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_check_double.png"
+  },
+  "48_notifications_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_check.png"
+  },
+  "48_notifications_circle_alert": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_circle_alert.png"
+  },
+  "48_notifications_circle_question": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_circle_question.png"
+  },
+  "48_notifications_icon48_info": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_icon48_info.png"
+  },
+  "48_notifications_minus_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_minus_octagon.png"
+  },
+  "48_notifications_x_octagon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/48_notifications_x_octagon.png"
+  },
+  "16_phone_call_icon16_phone_call_phone": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_icon16_phone_call_phone.png"
+  },
+  "16_phone_call_mic_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_mic_off.png"
+  },
+  "16_phone_call_mic_on": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_mic_on.png"
+  },
+  "16_phone_call_phone_call_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_add.png"
+  },
+  "16_phone_call_phone_call_decline": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_decline.png"
+  },
+  "16_phone_call_phone_call_end": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_end.png"
+  },
+  "16_phone_call_phone_call_forwarded": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_forwarded.png"
+  },
+  "16_phone_call_phone_call_hash": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_hash.png"
+  },
+  "16_phone_call_phone_call_hold": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_hold.png"
+  },
+  "16_phone_call_phone_call_incoming": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_incoming.png"
+  },
+  "16_phone_call_phone_call_missed": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_missed.png"
+  },
+  "16_phone_call_phone_call_muted": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_muted.png"
+  },
+  "16_phone_call_phone_call_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_no.png"
+  },
+  "16_phone_call_phone_call_numbers": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_numbers.png"
+  },
+  "16_phone_call_phone_call_outcoming": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_outcoming.png"
+  },
+  "16_phone_call_phone_call_phone_calling": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_phone_calling.png"
+  },
+  "16_phone_call_phone_call_received": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_received.png"
+  },
+  "16_phone_call_phone_call_voicemail": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_phone_call_phone_call_voicemail.png"
+  },
+  "24_phone_call_icon24_phone_call_phone": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_icon24_phone_call_phone.png"
+  },
+  "24_phone_call_mic_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_mic_off.png"
+  },
+  "24_phone_call_mic_on": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_mic_on.png"
+  },
+  "24_phone_call_phone_call_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_add.png"
+  },
+  "24_phone_call_phone_call_decline": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_decline.png"
+  },
+  "24_phone_call_phone_call_end": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_end.png"
+  },
+  "24_phone_call_phone_call_forwarded": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_forwarded.png"
+  },
+  "24_phone_call_phone_call_hash": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_hash.png"
+  },
+  "24_phone_call_phone_call_hold": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_hold.png"
+  },
+  "24_phone_call_phone_call_incoming": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_incoming.png"
+  },
+  "24_phone_call_phone_call_missed": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_missed.png"
+  },
+  "24_phone_call_phone_call_muted": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_muted.png"
+  },
+  "24_phone_call_phone_call_no": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_no.png"
+  },
+  "24_phone_call_phone_call_numbers": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_numbers.png"
+  },
+  "24_phone_call_phone_call_outcoming": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_outcoming.png"
+  },
+  "24_phone_call_phone_call_phone_calling": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_phone_calling.png"
+  },
+  "24_phone_call_phone_call_received": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_received.png"
+  },
+  "24_phone_call_phone_call_voicemail": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_phone_call_phone_call_voicemail.png"
+  },
+  "16_reaction_emoji_happy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_emoji_happy.png"
+  },
+  "16_reaction_emoji_sad": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_emoji_sad.png"
+  },
+  "16_reaction_emoji_satisfy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_emoji_satisfy.png"
+  },
+  "16_reaction_heart_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_heart_disable.png"
+  },
+  "16_reaction_heart_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_heart_full.png"
+  },
+  "16_reaction_heart": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_heart.png"
+  },
+  "16_reaction_like_dislike": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_like_dislike.png"
+  },
+  "16_reaction_like": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_like.png"
+  },
+  "16_reaction_star_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_star_full.png"
+  },
+  "16_reaction_star_half": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_star_half.png"
+  },
+  "16_reaction_star_non": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_reaction_star_non.png"
+  },
+  "24_reaction_emoji_happy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_emoji_happy.png"
+  },
+  "24_reaction_emoji_sad": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_emoji_sad.png"
+  },
+  "24_reaction_emoji_satisfy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_emoji_satisfy.png"
+  },
+  "24_reaction_heart_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_heart_disable.png"
+  },
+  "24_reaction_heart_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_heart_full.png"
+  },
+  "24_reaction_heart": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_heart.png"
+  },
+  "24_reaction_like_dislike": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_like_dislike.png"
+  },
+  "24_reaction_like": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_like.png"
+  },
+  "24_reaction_star_full": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_star_full.png"
+  },
+  "24_reaction_star_half": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_star_half.png"
+  },
+  "24_reaction_star_non": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_reaction_star_non.png"
+  },
+  "16_shopping_bag_shopping": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_bag_shopping.png"
+  },
+  "16_shopping_bag": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_bag.png"
+  },
+  "16_shopping_cart": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_cart.png"
+  },
+  "16_shopping_coupon_star": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_coupon_star.png"
+  },
+  "16_shopping_coupon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_coupon.png"
+  },
+  "16_shopping_fast_food": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_fast_food.png"
+  },
+  "16_shopping_gift_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_gift_card.png"
+  },
+  "16_shopping_restaurant": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_restaurant.png"
+  },
+  "16_shopping_store": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_store.png"
+  },
+  "16_shopping_tag_love": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_tag_love.png"
+  },
+  "16_shopping_tag": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_shopping_tag.png"
+  },
+  "24_shopping_bag_shopping": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_bag_shopping.png"
+  },
+  "24_shopping_bag": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_bag.png"
+  },
+  "24_shopping_cart": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_cart.png"
+  },
+  "24_shopping_coupon_star": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_coupon_star.png"
+  },
+  "24_shopping_coupon": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_coupon.png"
+  },
+  "24_shopping_fast_food": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_fast_food.png"
+  },
+  "24_shopping_gift_card": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_gift_card.png"
+  },
+  "24_shopping_restaurant": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_restaurant.png"
+  },
+  "24_shopping_store": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_store.png"
+  },
+  "24_shopping_tag_love": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_tag_love.png"
+  },
+  "24_shopping_tag": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_shopping_tag.png"
+  },
+  "16_time_alarm_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_alarm_add.png"
+  },
+  "16_time_alarm_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_alarm_check.png"
+  },
+  "16_time_alarm_remove": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_alarm_remove.png"
+  },
+  "16_time_alarm": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_alarm.png"
+  },
+  "16_time_calendar_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_calendar_add.png"
+  },
+  "16_time_calendar_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_calendar_checked.png"
+  },
+  "16_time_calendar_remove": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_calendar_remove.png"
+  },
+  "16_time_calendar_x": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_calendar_x.png"
+  },
+  "16_time_calendar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_calendar.png"
+  },
+  "16_time_clock_reset": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_clock_reset.png"
+  },
+  "16_time_clock": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_clock.png"
+  },
+  "16_time_note": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_note.png"
+  },
+  "16_time_stop_watch_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_stop_watch_disable.png"
+  },
+  "16_time_stop_watch": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_stop_watch.png"
+  },
+  "16_time_watch": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_time_watch.png"
+  },
+  "24_time_alarm_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_alarm_add.png"
+  },
+  "24_time_alarm_check": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_alarm_check.png"
+  },
+  "24_time_alarm_remove": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_alarm_remove.png"
+  },
+  "24_time_alarm": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_alarm.png"
+  },
+  "24_time_calendar_add": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_calendar_add.png"
+  },
+  "24_time_calendar_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_calendar_checked.png"
+  },
+  "24_time_calendar_remove": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_calendar_remove.png"
+  },
+  "24_time_calendar_x": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_calendar_x.png"
+  },
+  "24_time_calendar": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_calendar.png"
+  },
+  "24_time_clock_reset": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_clock_reset.png"
+  },
+  "24_time_clock": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_clock.png"
+  },
+  "24_time_note": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_note.png"
+  },
+  "24_time_stop_watch_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_stop_watch_disable.png"
+  },
+  "24_time_stop_watch": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_stop_watch.png"
+  },
+  "24_time_watch": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_time_watch.png"
+  },
+  "24_toggle_check_box_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_check_box_checked.png"
+  },
+  "24_toggle_check_box_default": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_check_box_default.png"
+  },
+  "24_toggle_check_box_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_check_box_disable.png"
+  },
+  "24_toggle_radio_default": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_radio_default.png"
+  },
+  "24_toggle_radio_selected": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_radio_selected.png"
+  },
+  "24_toggle_turn_off_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_turn_off_disable.png"
+  },
+  "24_toggle_turn_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_turn_off.png"
+  },
+  "24_toggle_turn_on_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_turn_on_disable.png"
+  },
+  "24_toggle_turn_on": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_toggle_turn_on.png"
+  },
+  "16_travel_bed": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_bed.png"
+  },
+  "16_travel_bike": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_bike.png"
+  },
+  "16_travel_bus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_bus.png"
+  },
+  "16_travel_car": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_car.png"
+  },
+  "16_travel_gas_station": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_gas_station.png"
+  },
+  "16_travel_laundry": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_laundry.png"
+  },
+  "16_travel_parking": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_parking.png"
+  },
+  "16_travel_people_baby": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_baby.png"
+  },
+  "16_travel_people_college": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_college.png"
+  },
+  "16_travel_people_family": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_family.png"
+  },
+  "16_travel_people_kid": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_kid.png"
+  },
+  "16_travel_people_man": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_man.png"
+  },
+  "16_travel_people_old": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_old.png"
+  },
+  "16_travel_people_run": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_run.png"
+  },
+  "16_travel_people_walk": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_walk.png"
+  },
+  "16_travel_people_wheelchair": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_wheelchair.png"
+  },
+  "16_travel_people_woman": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_people_woman.png"
+  },
+  "16_travel_plane_landing": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_plane_landing.png"
+  },
+  "16_travel_plane_take_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_plane_take_off.png"
+  },
+  "16_travel_plane": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_plane.png"
+  },
+  "16_travel_seat_comfort": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_seat_comfort.png"
+  },
+  "16_travel_seat_economy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_seat_economy.png"
+  },
+  "16_travel_seat_extra_seat": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_seat_extra_seat.png"
+  },
+  "16_travel_subway": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_subway.png"
+  },
+  "16_travel_taxi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_taxi.png"
+  },
+  "16_travel_train": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_train.png"
+  },
+  "16_travel_tram": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_tram.png"
+  },
+  "16_travel_van": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_van.png"
+  },
+  "16_travel_wc": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_wc.png"
+  },
+  "16_travel_women_pregnant": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/16_travel_women_pregnant.png"
+  },
+  "24_travel_bed": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_bed.png"
+  },
+  "24_travel_bike": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_bike.png"
+  },
+  "24_travel_bus": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_bus.png"
+  },
+  "24_travel_car": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_car.png"
+  },
+  "24_travel_gas_station": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_gas_station.png"
+  },
+  "24_travel_laundry": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_laundry.png"
+  },
+  "24_travel_parking": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_parking.png"
+  },
+  "24_travel_people_baby": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_baby.png"
+  },
+  "24_travel_people_college": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_college.png"
+  },
+  "24_travel_people_family": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_family.png"
+  },
+  "24_travel_people_kid": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_kid.png"
+  },
+  "24_travel_people_man": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_man.png"
+  },
+  "24_travel_people_old": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_old.png"
+  },
+  "24_travel_people_run": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_run.png"
+  },
+  "24_travel_people_walk": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_walk.png"
+  },
+  "24_travel_people_wheelchair": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_wheelchair.png"
+  },
+  "24_travel_people_woman": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_people_woman.png"
+  },
+  "24_travel_plane_landing": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_plane_landing.png"
+  },
+  "24_travel_plane_take_off": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_plane_take_off.png"
+  },
+  "24_travel_plane": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_plane.png"
+  },
+  "24_travel_seat_comfort": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_seat_comfort.png"
+  },
+  "24_travel_seat_economy": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_seat_economy.png"
+  },
+  "24_travel_seat_extra_seat": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_seat_extra_seat.png"
+  },
+  "24_travel_subway": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_subway.png"
+  },
+  "24_travel_taxi": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_taxi.png"
+  },
+  "24_travel_train_1": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_train_1.png"
+  },
+  "24_travel_train_2": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_train_2.png"
+  },
+  "24_travel_tram": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_tram.png"
+  },
+  "24_travel_van": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_van.png"
+  },
+  "24_travel_wc": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_wc.png"
+  },
+  "24_travel_women_pregnant": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_travel_women_pregnant.png"
+  },
+  "cinema_theaters_picking_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/cinema_theaters_picking_active.png"
+  },
+  "cinema_theaters_picking_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/cinema_theaters_picking_disable.png"
+  },
+  "cinema_ticket_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/cinema_ticket_active.png"
+  },
+  "cinema_ticket_disable": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/cinema_ticket_disable.png"
+  },
+  "cinema_ticket_my_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/cinema_ticket_my_active.png"
+  },
+  "cinema_ticket_my_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/cinema_ticket_my_inactive.png"
+  },
+  "home_friends_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_friends_active.png"
+  },
+  "home_friends_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_friends_inactive.png"
+  },
+  "home_history_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_history_active.png"
+  },
+  "home_history_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_history_inactive.png"
+  },
+  "home_momo_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_momo_active.png"
+  },
+  "home_momo_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_momo_inactive.png"
+  },
+  "home_promotions_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_promotions_active.png"
+  },
+  "home_promotions_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_promotions_inactive.png"
+  },
+  "home_wallet_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/home_wallet_inactive.png"
+  },
+  "shop_online_address_book_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/shop_online_address_book_active.png"
+  },
+  "shop_online_address_book_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/shop_online_address_book_inactive.png"
+  },
+  "shop_online_favorite_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/shop_online_favorite_active.png"
+  },
+  "shop_online_favorite_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/shop_online_favorite_inactive.png"
+  },
+  "shop_online_home_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/shop_online_home_active.png"
+  },
+  "shop_online_home_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/shop_online_home_inactive.png"
+  },
+  "shop_online_order_active": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/shop_online_order_active.png"
+  },
+  "shop_online_order_inactive": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/shop_online_order_inactive.png"
+  },
+  "24_ic_public": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_ic_public.png"
+  },
+  "24_ic_person_checked": {
+    "uri": "https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/24_ic_person_checked.png"
+  },
+  "ic_back_android": {
+    "uri": "http://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_back_android.png"
+  },
+  "ic_back_ios": {
+    "uri": "http://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_back_ios.png"
+  },
+  "24_security_eye_off": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_eye_off.png"
+  },
+  "32_security_key": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_key.png"
+  },
+  "16_security_fingerprint": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_fingerprint.png"
+  },
+  "16_security_eye_off": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_eye_off.png"
+  },
+  "32_security_lock": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_lock.png"
+  },
+  "32_security_shield_check": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_shield_check.png"
+  },
+  "24_security_lock_no": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_lock_no.png"
+  },
+  "24_security_shield": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_shield.png"
+  },
+  "16_security_lock_no": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_lock_no.png"
+  },
+  "16_security_unlock": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_unlock.png"
+  },
+  "32_security_lock_no": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_lock_no.png"
+  },
+  "48_notifications_bell_alert": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/48_notifications_bell_alert.png"
+  },
+  "16_security_shield_disable": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_shield_disable.png"
+  },
+  "32_security_fingerprint": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_fingerprint.png"
+  },
+  "32_security_shield": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_shield.png"
+  },
+  "16_security_key_no": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_key_no.png"
+  },
+  "16_security_shield_check": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_shield_check.png"
+  },
+  "32_security_eye_off": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_eye_off.png"
+  },
+  "16_security_key": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_key.png"
+  },
+  "24_security_fingerprint": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_fingerprint.png"
+  },
+  "24_security_lock": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_lock.png"
+  },
+  "24_security_shield_check": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_shield_check.png"
+  },
+  "24_security_key_no": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_key_no.png"
+  },
+  "24_security_key": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_key.png"
+  },
+  "24_security_verifiedface_id": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_verifiedface_id.png"
+  },
+  "32_security_verifiedface_id": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_verifiedface_id.png"
+  },
+  "24_security_eye_open": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_eye_open.png"
+  },
+  "16_security_verifiedface_id": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_verifiedface_id.png"
+  },
+  "32_security_eye_open": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_eye_open.png"
+  },
+  "16_security_eye_open": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_eye_open.png"
+  },
+  "32_security_unlock": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_unlock.png"
+  },
+  "24_security_shield_disable": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_shield_disable.png"
+  },
+  "32_security_shield_disable": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_shield_disable.png"
+  },
+  "16_notifications_bell_alert": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_notifications_bell_alert.png"
+  },
+  "24_security_unlock": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_security_unlock.png"
+  },
+  "16_security_shield": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_shield.png"
+  },
+  "32_notifications_bell_alert": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_notifications_bell_alert.png"
+  },
+  "32_security_key_no": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/32_security_key_no.png"
+  },
+  "24_notifications_bell_alert": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/24_notifications_bell_alert.png"
+  },
+  "16_security_lock": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/icons/16_security_lock.png"
+  }
+}

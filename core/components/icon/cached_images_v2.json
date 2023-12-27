@@ -1,0 +1,1259 @@
+{
+  "01.MoMo Copy": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/01.MoMo Copy.png"
+  },
+  "01.MoMo": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/01.MoMo.png"},
+  "Phonebook": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/Phonebook.png"
+  },
+  "arrow_arrow-back": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow-back.png"
+  },
+  "arrow_arrow-down": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow-down.png"
+  },
+  "arrow_arrow-next": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow-next.png"
+  },
+  "arrow_arrow-top": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow-top.png"
+  },
+  "arrow_arrow_bold_forward": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_bold_forward.png"
+  },
+  "arrow_arrow_bold_forward_all": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_bold_forward_all.png"
+  },
+  "arrow_arrow_bold_redo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_bold_redo.png"
+  },
+  "arrow_arrow_bold_reply": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_bold_reply.png"
+  },
+  "arrow_arrow_bold_reply_all": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_bold_reply_all.png"
+  },
+  "arrow_arrow_bold_undo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_bold_undo.png"
+  },
+  "arrow_arrow_forward": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_forward.png"
+  },
+  "arrow_arrow_redo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_redo.png"
+  },
+  "arrow_arrow_reply": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_reply.png"
+  },
+  "arrow_arrow_undo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_arrow_undo.png"
+  },
+  "arrow_chevron_down": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevron_down.png"
+  },
+  "arrow_chevron_down_small": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevron_down_small.png"
+  },
+  "arrow_chevron_left": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevron_left.png"
+  },
+  "arrow_chevron_left_small": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevron_left_small.png"
+  },
+  "arrow_chevron_right": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevron_right.png"
+  },
+  "arrow_chevron_right_small": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevron_right_small.png"
+  },
+  "arrow_chevron_up": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevron_up.png"
+  },
+  "arrow_chevron_up_small": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevron_up_small.png"
+  },
+  "arrow_chevrons_double_down": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevrons_double_down.png"
+  },
+  "arrow_chevrons_double_left": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevrons_double_left.png"
+  },
+  "arrow_chevrons_double_right": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevrons_double_right.png"
+  },
+  "arrow_chevrons_double_up": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_chevrons_double_up.png"
+  },
+  "arrow_circle_chevron_bottom": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_chevron_bottom.png"
+  },
+  "arrow_circle_chevron_left": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_chevron_left.png"
+  },
+  "arrow_circle_chevron_right": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_chevron_right.png"
+  },
+  "arrow_circle_chevron_top": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_chevron_top.png"
+  },
+  "arrow_circle_chevrons_double_down": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_chevrons_double_down.png"
+  },
+  "arrow_circle_chevrons_double_up": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_chevrons_double_up.png"
+  },
+  "arrow_circle_chevrons_left": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_chevrons_left.png"
+  },
+  "arrow_circle_chevrons_right": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_chevrons_right.png"
+  },
+  "arrow_circle_redo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_redo.png"
+  },
+  "arrow_circle_undo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_circle_undo.png"
+  },
+  "arrow_diagonals": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_diagonals.png"
+  },
+  "arrow_diagonals_bltr": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_diagonals_bltr.png"
+  },
+  "arrow_diagonals_tlbr": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_diagonals_tlbr.png"
+  },
+  "arrow_hv": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_hv.png"},
+  "arrow_redo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_redo.png"
+  },
+  "arrow_refresh_ccw": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_refresh_ccw.png"
+  },
+  "arrow_refresh_ccw_alert": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_refresh_ccw_alert.png"
+  },
+  "arrow_rotate_ccw": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_rotate_ccw.png"
+  },
+  "arrow_rotate_cw": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_rotate_cw.png"
+  },
+  "arrow_undo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/arrow_undo.png"
+  },
+  "basic_Moon": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_Moon.png"
+  },
+  "basic_account": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_account.png"
+  },
+  "basic_chart": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_chart.png"
+  },
+  "basic_chart_down": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_chart_down.png"
+  },
+  "basic_chart_up": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_chart_up.png"
+  },
+  "basic_copy": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_copy.png"
+  },
+  "basic_delete": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_delete.png"
+  },
+  "basic_duplicate": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_duplicate.png"
+  },
+  "basic_filter": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_filter.png"
+  },
+  "basic_flag": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_flag.png"
+  },
+  "basic_home": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_home.png"
+  },
+  "basic_name_tag": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_name_tag.png"
+  },
+  "basic_options": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_options.png"
+  },
+  "basic_person": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_person.png"
+  },
+  "basic_person_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_person_add.png"
+  },
+  "basic_person_block": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_person_block.png"
+  },
+  "basic_person_check": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_person_check.png"
+  },
+  "basic_person_group": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_person_group.png"
+  },
+  "basic_person_minus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_person_minus.png"
+  },
+  "basic_person_tag": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_person_tag.png"
+  },
+  "basic_power": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_power.png"
+  },
+  "basic_pubic": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_pubic.png"
+  },
+  "basic_pubic_explore": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_pubic_explore.png"
+  },
+  "basic_pubic_off": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_pubic_off.png"
+  },
+  "basic_screen_rotation": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_screen_rotation.png"
+  },
+  "basic_screen_rotation_lock": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_screen_rotation_lock.png"
+  },
+  "basic_setting": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_setting.png"
+  },
+  "basic_sort_a_z": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_sort_a_z.png"
+  },
+  "basic_sorting": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_sorting.png"
+  },
+  "basic_sun": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_sun.png"
+  },
+  "basic_suport_24": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_suport_24.png"
+  },
+  "basic_ticket": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_ticket.png"
+  },
+  "basic_ticket_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_ticket_full.png"
+  },
+  "basic_ticket_star": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_ticket_star.png"
+  },
+  "basic_ticket_star_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/basic_ticket_star_full.png"
+  },
+  "chat_back_space": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_back_space.png"
+  },
+  "chat_bot":{
+    "uri":"https://img.mservice.com.vn/app/img/kits/chat_bot.2x.png"
+  },
+  "chat_comment": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_comment.png"
+  },
+  "chat_comment_alert": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_comment_alert.png"
+  },
+  "chat_comment_checked": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_comment_checked.png"
+  },
+  "chat_comment_delete": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_comment_delete.png"
+  },
+  "chat_comment_empty": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_comment_empty.png"
+  },
+  "chat_comment_minus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_comment_minus.png"
+  },
+  "chat_comment_plus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_comment_plus.png"
+  },
+  "chat_q_and_a": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_q_and_a.png"
+  },
+  "chat_sent": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_sent.png"
+  },
+  "chat_sticker": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/chat_sticker.png"
+  },
+  "connection_airplay": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_airplay.png"
+  },
+  "connection_bluetooth": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_bluetooth.png"
+  },
+  "connection_bluetooth_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_bluetooth_no.png"
+  },
+  "connection_broadcast": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_broadcast.png"
+  },
+  "connection_broadcasting": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_broadcasting.png"
+  },
+  "connection_cast": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_cast.png"
+  },
+  "connection_link": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_link.png"
+  },
+  "connection_link_disable": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_link_disable.png"
+  },
+  "connection_mail": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_mail.png"
+  },
+  "connection_share": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_share.png"
+  },
+  "connection_share_2": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_share_2.png"
+  },
+  "connection_wifi": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_wifi.png"
+  },
+  "connection_wifi_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_wifi_no.png"
+  },
+  "file": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/file.png"},
+  "file_Billsetting": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_Billsetting.png"
+  },
+  "file_briefcase": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_briefcase.png"
+  },
+  "file_checked": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_checked.png"
+  },
+  "file_clipboard": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_clipboard.png"
+  },
+  "file_clipboard_checked": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_clipboard_checked.png"
+  },
+  "file_clipboard_delete": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_clipboard_delete.png"
+  },
+  "file_clipboard_minus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_clipboard_minus.png"
+  },
+  "file_clipboard_note": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_clipboard_note.png"
+  },
+  "file_clipboard_plus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_clipboard_plus.png"
+  },
+  "file_cloud": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_cloud.png"
+  },
+  "file_cloud_checked": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_cloud_checked.png"
+  },
+  "file_cloud_connect": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_cloud_connect.png"
+  },
+  "file_cloud_download": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_cloud_download.png"
+  },
+  "file_cloud_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_cloud_no.png"
+  },
+  "file_cloud_upload": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_cloud_upload.png"
+  },
+  "file_code": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_code.png"
+  },
+  "file_database": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_database.png"
+  },
+  "file_delete": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_delete.png"
+  },
+  "file_download": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_download.png"
+  },
+  "file_draft": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_draft.png"
+  },
+  "file_edit": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_edit.png"
+  },
+  "file_edit_in_box": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_edit_in_box.png"
+  },
+  "file_file_create": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_file_create.png"
+  },
+  "file_folder": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder.png"
+  },
+  "file_folder_checked": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_checked.png"
+  },
+  "file_folder_cloud": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_cloud.png"
+  },
+  "file_folder_create": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_create.png"
+  },
+  "file_folder_delete": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_delete.png"
+  },
+  "file_folder_forward": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_forward.png"
+  },
+  "file_folder_minus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_minus.png"
+  },
+  "file_folder_music": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_music.png"
+  },
+  "file_folder_opened": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_opened.png"
+  },
+  "file_folder_photo": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_photo.png"
+  },
+  "file_folder_plus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_plus.png"
+  },
+  "file_folder_zip": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_folder_zip.png"
+  },
+  "file_mail": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_mail.png"
+  },
+  "file_minus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_minus.png"
+  },
+  "file_paperclip": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_paperclip.png"
+  },
+  "file_paperclip_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_paperclip_no.png"
+  },
+  "file_pin": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/file_pin.png"},
+  "file_plus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_plus.png"
+  },
+  "file_scan": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_scan.png"
+  },
+  "file_search": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_search.png"
+  },
+  "file_shredder": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_shredder.png"
+  },
+  "file_text": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_text.png"
+  },
+  "file_unpin": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_unpin.png"
+  },
+  "file_upload": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/file_upload.png"
+  },
+  "finance_atm": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_atm.png"
+  },
+  "finance_card_1": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_card_1.png"
+  },
+  "finance_card_2": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_card_2.png"
+  },
+  "finance_card_jcb": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_card_jcb.png"
+  },
+  "finance_card_master": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_card_master.png"
+  },
+  "finance_card_visa": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_card_visa.png"
+  },
+  "finance_credit_card": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_credit_card.png"
+  },
+  "finance_jcb": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_jcb.png"
+  },
+  "finance_master": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_master.png"
+  },
+  "finance_paypass": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_paypass.png"
+  },
+  "finance_safe": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_safe.png"
+  },
+  "finance_visa": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_visa.png"
+  },
+  "finance_wallet": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/finance_wallet.png"
+  },
+  "gadgets_devices": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_devices.png"
+  },
+  "gadgets_ipad": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_ipad.png"
+  },
+  "gadgets_iphone": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_iphone.png"
+  },
+  "gadgets_keyboard": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_keyboard.png"
+  },
+  "gadgets_laptop": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_laptop.png"
+  },
+  "gadgets_memory_card": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_memory_card.png"
+  },
+  "gadgets_mobile": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_mobile.png"
+  },
+  "gadgets_monitor": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_monitor.png"
+  },
+  "gadgets_mouse": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_mouse.png"
+  },
+  "gadgets_print": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_print.png"
+  },
+  "gadgets_server": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_server.png"
+  },
+  "gadgets_soft_disk": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_soft_disk.png"
+  },
+  "gadgets_usb": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/gadgets_usb.png"
+  },
+  "logicstics_ delivery": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_ delivery.png"
+  },
+  "logicstics_ delivery_fast": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_ delivery_fast.png"
+  },
+  "logicstics_ delivey_bike": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_ delivey_bike.png"
+  },
+  "logicstics_ package_cancel": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_ package_cancel.png"
+  },
+  "logicstics_ package_done": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_ package_done.png"
+  },
+  "logicstics_ package_list": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_ package_list.png"
+  },
+  "logicstics_ package_preparing": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_ package_preparing.png"
+  },
+  "logicstics_ trolley_package": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_ trolley_package.png"
+  },
+  "logicstics_package": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/logicstics_package.png"
+  },
+  "maps_360": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_360.png"},
+  "maps_compass": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_compass.png"
+  },
+  "maps_direction": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_direction.png"
+  },
+  "maps_direction_45": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_direction_45.png"
+  },
+  "maps_globe": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_globe.png"
+  },
+  "maps_location": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_location.png"
+  },
+  "maps_location_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_location_no.png"
+  },
+  "maps_map": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_map.png"},
+  "maps_map_pin_location": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_map_pin_location.png"
+  },
+  "maps_panorama": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_panorama.png"
+  },
+  "maps_pin": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_pin.png"},
+  "maps_pin_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_pin_add.png"
+  },
+  "maps_pin_edit": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_pin_edit.png"
+  },
+  "maps_pin_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_pin_no.png"
+  },
+  "maps_pin_question": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_pin_question.png"
+  },
+  "maps_pin_round": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_pin_round.png"
+  },
+  "maps_pin_start": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_pin_start.png"
+  },
+  "maps_radar": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_radar.png"
+  },
+  "maps_route": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_route.png"
+  },
+  "maps_zoom_in": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_zoom_in.png"
+  },
+  "maps_zoom_out": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/maps_zoom_out.png"
+  },
+  "media": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/media.png"},
+  "media_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_add.png"
+  },
+  "media_camera": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_camera.png"
+  },
+  "media_camera_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_camera_add.png"
+  },
+  "media_camera_linked": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_camera_linked.png"
+  },
+  "media_camera_switch": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_camera_switch.png"
+  },
+  "media_cd": {"uri": "https://cdn.mservice.com.vn/app/icon/kits/media_cd.png"},
+  "media_collection": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_collection.png"
+  },
+  "media_color_picker": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_color_picker.png"
+  },
+  "media_control_point": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_control_point.png"
+  },
+  "media_flash_auto": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_flash_auto.png"
+  },
+  "media_flash_off": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_flash_off.png"
+  },
+  "media_flash_on": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_flash_on.png"
+  },
+  "media_flashlight_disable": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_flashlight_disable.png"
+  },
+  "media_flashlight_off": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_flashlight_off.png"
+  },
+  "media_flashlight_on": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_flashlight_on.png"
+  },
+  "media_focus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_focus.png"
+  },
+  "media_leak_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_leak_add.png"
+  },
+  "media_player_pause_circle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_player_pause_circle.png"
+  },
+  "media_player_play_circle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_player_play_circle.png"
+  },
+  "media_player_stop_circle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_player_stop_circle.png"
+  },
+  "media_record": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_record.png"
+  },
+  "media_repeat": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_repeat.png"
+  },
+  "media_rotate_left": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_rotate_left.png"
+  },
+  "media_rotate_right": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_rotate_right.png"
+  },
+  "media_search": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_search.png"
+  },
+  "media_shuffle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_shuffle.png"
+  },
+  "media_shutter_speed": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_shutter_speed.png"
+  },
+  "media_slideshow": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_slideshow.png"
+  },
+  "media_timelapse": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_timelapse.png"
+  },
+  "media_timer": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_timer.png"
+  },
+  "media_timer_10s": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_timer_10s.png"
+  },
+  "media_timer_3s": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_timer_3s.png"
+  },
+  "media_timer_off": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_timer_off.png"
+  },
+  "media_video": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_video.png"
+  },
+  "media_volume": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_volume.png"
+  },
+  "media_volume_high": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_volume_high.png"
+  },
+  "media_volume_low": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_volume_low.png"
+  },
+  "media_volume_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_volume_no.png"
+  },
+  "media_volume_off": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/media_volume_off.png"
+  },
+  "navigation_app": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_app.png"
+  },
+  "navigation_cash_in": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_cash_in.png"
+  },
+  "navigation_close": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_close.png"
+  },
+  "navigation_close_circle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_close_circle.png"
+  },
+  "navigation_close_circle_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_close_circle_full.png"
+  },
+  "navigation_close_circle_full_02": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_close_circle_full_02.png"
+  },
+  "navigation_close_circle_full_2": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_close_circle_full_2.png"
+  },
+  "navigation_full_screen": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_full_screen.png"
+  },
+  "navigation_full_screen_exit": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_full_screen_exit.png"
+  },
+  "navigation_log_out": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_log_out.png"
+  },
+  "navigation_menu": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_menu.png"
+  },
+  "navigation_minus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_minus.png"
+  },
+  "navigation_minus_circle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_minus_circle.png"
+  },
+  "navigation_minus_circle_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_minus_circle_full.png"
+  },
+  "navigation_more_horiz": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_more_horiz.png"
+  },
+  "navigation_more_vert": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_more_vert.png"
+  },
+  "navigation_plus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_plus.png"
+  },
+  "navigation_plus_circle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_plus_circle.png"
+  },
+  "navigation_plus_circle_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_plus_circle_full.png"
+  },
+  "navigation_qrcode": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_qrcode.png"
+  },
+  "navigation_scan": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_scan.png"
+  },
+  "navigation_search": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_search.png"
+  },
+  "navigation_search_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_search_add.png"
+  },
+  "navigation_search_minus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_search_minus.png"
+  },
+  "navigation_unfold_less": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_unfold_less.png"
+  },
+  "navigation_unfold_more": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/navigation_unfold_more.png"
+  },
+  "notifications_alert_octagon": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_alert_octagon.png"
+  },
+  "notifications_alert_triangle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_alert_triangle.png"
+  },
+  "notifications_app_notification": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_app_notification.png"
+  },
+  "notifications_bell": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_bell.png"
+  },
+  "notifications_bell_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_bell_add.png"
+  },
+  "notifications_bell_alert": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_bell_alert.png"
+  },
+  "notifications_bell_checked": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_bell_checked.png"
+  },
+  "notifications_bell_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_bell_full.png"
+  },
+  "notifications_bell_minus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_bell_minus.png"
+  },
+  "notifications_bell_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_bell_no.png"
+  },
+  "notifications_check": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_check.png"
+  },
+  "notifications_check_circle": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_check_circle.png"
+  },
+  "notifications_check_circle_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_check_circle_full.png"
+  },
+  "notifications_check_double": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_check_double.png"
+  },
+  "notifications_circle_alert": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_circle_alert.png"
+  },
+  "notifications_circle_question": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_circle_question.png"
+  },
+  "notifications_info": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_info.png"
+  },
+  "notifications_minus_octagon": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_minus_octagon.png"
+  },
+  "notifications_x_octagon": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/notifications_x_octagon.png"
+  },
+  "phone_call": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call.png"
+  },
+  "phone_call_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_add.png"
+  },
+  "phone_call_decline": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_decline.png"
+  },
+  "phone_call_end": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_end.png"
+  },
+  "phone_call_forwarded": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_forwarded.png"
+  },
+  "phone_call_hash": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_hash.png"
+  },
+  "phone_call_hold": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_hold.png"
+  },
+  "phone_call_incoming": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_incoming.png"
+  },
+  "phone_call_mic_off": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_mic_off.png"
+  },
+  "phone_call_mic_on": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_mic_on.png"
+  },
+  "phone_call_missed": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_missed.png"
+  },
+  "phone_call_muted": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_muted.png"
+  },
+  "phone_call_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_no.png"
+  },
+  "phone_call_numbers": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_numbers.png"
+  },
+  "phone_call_outcoming": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_outcoming.png"
+  },
+  "phone_call_phone_calling": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_phone_calling.png"
+  },
+  "phone_call_recieved": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_recieved.png"
+  },
+  "phone_call_voicemail": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/phone_call_voicemail.png"
+  },
+  "reaction_emoji_happy": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_emoji_happy.png"
+  },
+  "reaction_emoji_sad": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_emoji_sad.png"
+  },
+  "reaction_emoji_satisfy": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_emoji_satisfy.png"
+  },
+  "reaction_heart": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_heart.png"
+  },
+  "reaction_heart_disable": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_heart_disable.png"
+  },
+  "reaction_heart_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_heart_full.png"
+  },
+  "reaction_like": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_like.png"
+  },
+  "reaction_like_dislike": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_like_dislike.png"
+  },
+  "reaction_star_full": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_star_full.png"
+  },
+  "reaction_star_half": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_star_half.png"
+  },
+  "reaction_star_non": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/reaction_star_non.png"
+  },
+  "security_eye_off": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_eye_off.png"
+  },
+  "security_eye_open": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_eye_open.png"
+  },
+  "security_fingerprint": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_fingerprint.png"
+  },
+  "security_key": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_key.png"
+  },
+  "security_key_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_key_no.png"
+  },
+  "security_lock": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_lock.png"
+  },
+  "security_lock_no": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_lock_no.png"
+  },
+  "security_password": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_password.png"
+  },
+  "security_shield": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_shield.png"
+  },
+  "security_shield_admin": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_shield_admin.png"
+  },
+  "security_shield_check": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_shield_check.png"
+  },
+  "security_shield_disable": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_shield_disable.png"
+  },
+  "security_unlock": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_unlock.png"
+  },
+  "security_verifiedface_id": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/security_verifiedface_id.png"
+  },
+  "shopping_bag": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_bag.png"
+  },
+  "shopping_bag_shopping": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_bag_shopping.png"
+  },
+  "shopping_cart": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_cart.png"
+  },
+  "shopping_coupon": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_coupon.png"
+  },
+  "shopping_coupon_star": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_coupon_star.png"
+  },
+  "shopping_fast_food": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_fast_food.png"
+  },
+  "shopping_gift_card": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_gift_card.png"
+  },
+  "shopping_restaurant": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_restaurant.png"
+  },
+  "shopping_store": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_store.png"
+  },
+  "shopping_tag": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_tag.png"
+  },
+  "shopping_tag_love": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/shopping_tag_love.png"
+  },
+  "time_alarm": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_alarm.png"
+  },
+  "time_alarm_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_alarm_add.png"
+  },
+  "time_alarm_check": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_alarm_check.png"
+  },
+  "time_alarm_remove": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_alarm_remove.png"
+  },
+  "time_calendar": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_calendar.png"
+  },
+  "time_calendar_add": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_calendar_add.png"
+  },
+  "time_calendar_checked": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_calendar_checked.png"
+  },
+  "time_calendar_remove": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_calendar_remove.png"
+  },
+  "time_calendar_x": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_calendar_x.png"
+  },
+  "time_clock": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_clock.png"
+  },
+  "time_clock_reset": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_clock_reset.png"
+  },
+  "time_note": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_note.png"
+  },
+  "time_stop_watch": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_stop_watch.png"
+  },
+  "time_stop_watch_disable": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_stop_watch_disable.png"
+  },
+  "time_watch": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/time_watch.png"
+  },
+  "travel_Cold": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_Cold.png"
+  },
+  "travel_Karaoke": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_Karaoke.png"
+  },
+  "travel_apartment": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_apartment.png"
+  },
+  "travel_bathtub": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_bathtub.png"
+  },
+  "travel_bed-single": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_bed-single.png"
+  },
+  "travel_bed": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_bed.png"
+  },
+  "travel_bike": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_bike.png"
+  },
+  "travel_bus": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_bus.png"
+  },
+  "travel_car": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_car.png"
+  },
+  "travel_cleaning_services": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_cleaning_services.png"
+  },
+  "travel_coffee_maker": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_coffee_maker.png"
+  },
+  "travel_dry_clean": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_dry_clean.png"
+  },
+  "travel_fridge": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_fridge.png"
+  },
+  "travel_gas_station": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_gas_station.png"
+  },
+  "travel_holiday_village Copy": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_holiday_village Copy.png"
+  },
+  "travel_holiday_village": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_holiday_village.png"
+  },
+  "travel_hotel": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_hotel.png"
+  },
+  "travel_hottub": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_hottub.png"
+  },
+  "travel_iron": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_iron.png"
+  },
+  "travel_kitchen": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_kitchen.png"
+  },
+  "travel_laundry": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_laundry.png"
+  },
+  "travel_microwave": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_microwave.png"
+  },
+  "travel_parking": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_parking.png"
+  },
+  "travel_people_baby": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_baby.png"
+  },
+  "travel_people_college": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_college.png"
+  },
+  "travel_people_family": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_family.png"
+  },
+  "travel_people_kid": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_kid.png"
+  },
+  "travel_people_man": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_man.png"
+  },
+  "travel_people_old": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_old.png"
+  },
+  "travel_people_run": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_run.png"
+  },
+  "travel_people_walk": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_walk.png"
+  },
+  "travel_people_wheelchair": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_wheelchair.png"
+  },
+  "travel_people_woman": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_woman.png"
+  },
+  "travel_people_women_pregnant": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_people_women_pregnant.png"
+  },
+  "travel_plane": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_plane.png"
+  },
+  "travel_plane_landing": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_plane_landing.png"
+  },
+  "travel_plane_take_off": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_plane_take_off.png"
+  },
+  "travel_seat_comfort": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_seat_comfort.png"
+  },
+  "travel_seat_economy": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_seat_economy.png"
+  },
+  "travel_seat_extra_seat": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_seat_extra_seat.png"
+  },
+  "travel_subway": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_subway.png"
+  },
+  "travel_suport_service": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_suport_service.png"
+  },
+  "travel_taxi": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_taxi.png"
+  },
+  "travel_train_1": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_train_1.png"
+  },
+  "travel_train_2": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_train_2.png"
+  },
+  "travel_tram": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_tram.png"
+  },
+  "travel_van": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_van.png"
+  },
+  "travel_villa": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_villa.png"
+  },
+  "travel_wc": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/travel_wc.png"
+  },
+  "home_banner": {
+    "uri": "https://cdn.mservice.com.vn/app/img/momoplatform/im_background_new_user.png"
+  },
+  "travel_airconditional": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/travel_airconditional.png"
+  },
+  "request_money": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/request_money.png"
+  },
+  "notifications_guide": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/notifications_guide.png"
+  },
+  "navigation_remove_from_home": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/navigation_remove_from_home.png"
+  },
+  "navigation_add_to_home": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/navigation_add_to_home.png"
+  },
+  "finance_saving": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/finance_saving.png"
+  },
+  "finance_cash": {
+    "uri": "https://cdn.mservice.com.vn/app/img/kits/finance_cash.png"
+  },
+  "connection_launch": {
+    "uri": "https://cdn.mservice.com.vn/app/icon/kits/connection_launch.png"
+  }
+}

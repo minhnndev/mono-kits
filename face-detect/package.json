@@ -1,0 +1,14 @@
+{
+  "name": "@momo-kits/face-detect",
+  "version": "0.0.48-rc.4",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": ">=0.55",
+    "@momo-kits/core": "latest"
+  },
+  "devDependencies": {},
+  "license": "MoMo"
+}

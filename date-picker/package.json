@@ -1,0 +1,16 @@
+{
+  "name": "@momo-kits/date-picker",
+  "version": "0.0.36",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.55",
+    "prop-types": "^15.7.2",
+    "react": "16.9.0",
+    "@momo-kits/core": ">=0.0.5-beta",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "license": "MoMo"
+}

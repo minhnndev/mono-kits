@@ -1,6 +1,6 @@
 /* eslint-disable prefer-rest-params */
 /* eslint-disable no-param-reassign */
-import { Text } from 'react-native';
+import {Text} from 'react-native';
 
 // const generatorFont = (name, weight) => {
 //     const fontFamily = (font) => `${name}-${font}`;
@@ -22,24 +22,24 @@ import { Text } from 'react-native';
 
 // const generatorLineHeight = (size) => ({ lineHeight: size ? size + 4 : 18 });
 
-const setCustomText = (customProps) => {
-    const TextRender = Text.render;
-    const initialDefaultProps = Text.defaultProps;
-    Text.defaultProps = {
-        ...initialDefaultProps,
-        ...customProps
-    };
-    Text.render = function render(props) {
-        const oldProps = props;
-        // const customWeight = generatorFont('SFProText', props?.style?.fontWeight);
-        // const customLineHeight = generatorLineHeight(props?.style?.fontSize);
-        props = { ...props, style: [customProps.style, props.style] };
-        try {
-            return TextRender.apply(this, arguments);
-        } finally {
-            props = oldProps;
-        }
-    };
+const setCustomText = customProps => {
+  const TextRender = Text.render;
+  const initialDefaultProps = Text.defaultProps;
+  Text.defaultProps = {
+    ...initialDefaultProps,
+    ...customProps,
+  };
+  Text.render = function render(props) {
+    const oldProps = props;
+    // const customWeight = generatorFont('SFProText', props?.style?.fontWeight);
+    // const customLineHeight = generatorLineHeight(props?.style?.fontSize);
+    props = {...props, style: [customProps.style, props.style]};
+    try {
+      return TextRender.apply(this, arguments);
+    } finally {
+      props = oldProps;
+    }
+  };
 };
 
 export default setCustomText;

@@ -7,11 +7,11 @@ import NavigationButton from './NavigationButton';
 import AnimatedHeaderRight from './AnimatedHeaderRight';
 
 export {
-    NavigationAnimatedHeader,
-    NavigationSearchBar,
-    NavigationTitle,
-    NavigationBackButton,
-    NavigationBar,
-    NavigationButton,
-    AnimatedHeaderRight
+  NavigationAnimatedHeader,
+  NavigationSearchBar,
+  NavigationTitle,
+  NavigationBackButton,
+  NavigationBar,
+  NavigationButton,
+  AnimatedHeaderRight,
 };

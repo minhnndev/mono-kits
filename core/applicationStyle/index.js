@@ -2,17 +2,17 @@ import setCustomText from './setCustomText';
 import setCustomTextInput from './setCustomTextInput';
 
 const customTextInputProps = {
-    allowFontScaling: false,
+  allowFontScaling: false,
 };
 
 // Setting default styles for all Text UserComponent.
 const customTextProps = {
-    allowFontScaling: false,
+  allowFontScaling: false,
 };
 
 const init = () => {
-    setCustomTextInput(customTextInputProps);
-    setCustomText(customTextProps);
+  setCustomTextInput(customTextInputProps);
+  setCustomText(customTextProps);
 };
 
 export default init;

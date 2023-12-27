@@ -1,10 +1,10 @@
 const genericMessage = 'Invariant Violation "react-native-modalize"';
 
 const {
-    setPrototypeOf = (obj, proto) => {
-        obj.__proto__ = proto;
-        return obj;
-    },
+  setPrototypeOf = (obj, proto) => {
+    obj.__proto__ = proto;
+    return obj;
+  },
 } = Object;
 
 class InvariantError extends Error {
@@ -13,14 +13,14 @@ class InvariantError extends Error {
   name = genericMessage;
 
   constructor(message = genericMessage) {
-      super(`${message}`);
+    super(`${message}`);
 
-      setPrototypeOf(this, InvariantError.prototype);
+    setPrototypeOf(this, InvariantError.prototype);
   }
 }
 
 export const invariant = (condition, message) => {
-    if (condition) {
-        throw new InvariantError(message);
-    }
+  if (condition) {
+    throw new InvariantError(message);
+  }
 };

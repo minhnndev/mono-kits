@@ -6,11 +6,7 @@ import Text from '../typography';
 import Colors from '../../colors';
 import NumberUtils from '../../utils/NumberUtils';
 import TouchableOpacity from '../touchableOpacity/TouchableOpacity';
-import {RFValueHorizontal} from '../typography/reponsiveSize';
 import {DynamicSize} from '../../utils/ScreenUtils';
-// import ValueUtil from '../../utils/ValueUtil';
-
-// const { removeSpace } = ValueUtil;
 
 export const ButtonType = {
   primary: 'primary',
@@ -22,6 +18,7 @@ export const ButtonType = {
   outline: 'outline',
   dashed: 'dashed',
   indifferent: 'indifferent',
+  tonal: 'tonal',
 };
 
 export const ButtonSize = {
@@ -48,6 +45,9 @@ const buttonStyles = StyleSheet.create({
   outline: {
     borderWidth: 1,
     borderColor: Colors.pink_05_b,
+  },
+  tonal: {
+    backgroundColor: '#fef4fa',
   },
   disabled: {
     backgroundColor: Colors.black_02,
@@ -104,7 +104,7 @@ const buttonSize = width => ({
 
 const titleStyles = width => ({
   default: {
-    fontSize: RFValueHorizontal(16, width),
+    fontSize: 16,
     textAlign: 'center',
     fontWeight: 'bold',
   },
@@ -112,6 +112,9 @@ const titleStyles = width => ({
     color: Colors.black_01,
   },
   outline: {
+    color: Colors.pink_05,
+  },
+  tonal: {
     color: Colors.pink_05,
   },
   disabled: {
@@ -128,20 +131,20 @@ const titleStyles = width => ({
     color: Colors.pink_05,
   },
   small: {
-    fontSize: RFValueHorizontal(12, width),
+    fontSize: 12,
   },
   medium: {
-    fontSize: RFValueHorizontal(14, width),
+    fontSize: 14,
   },
   large: {
-    fontSize: RFValueHorizontal(16, width),
+    fontSize: 16,
   },
 });
 
 const iconStyles = width => ({
   default: {
-    width: DynamicSize(20, width),
-    height: DynamicSize(20, width),
+    width: 20,
+    height: 20,
   },
   left: {
     marginRight: 8,
@@ -155,23 +158,29 @@ const iconStyles = width => ({
   outline: {
     tintColor: Colors.primary,
   },
+  tonal: {
+    color: Colors.pink_05,
+  },
   disabled: {
     tintColor: Colors.black_09,
   },
   secondary: {
     tintColor: Colors.disabled,
   },
+  dashed: {
+    tintColor: Colors.primary,
+  },
   small: {
-    width: DynamicSize(16, width),
-    height: DynamicSize(16, width),
+    width: 16,
+    height: 16,
   },
   medium: {
-    width: DynamicSize(16, width),
-    height: DynamicSize(16, width),
+    width: 16,
+    height: 16,
   },
   large: {
-    width: DynamicSize(24, width),
-    height: DynamicSize(24, width),
+    width: 24,
+    height: 24,
   },
   iconOnly: {
     width: 16,
@@ -290,7 +299,11 @@ export default class Button extends Component {
         icon = iconStyles(dimensions?.width || null).large;
         break;
     }
-    return {mapSize, title, icon};
+    return {
+      mapSize,
+      title,
+      icon,
+    };
   };
 
   mapStyleFromType = (type, size, primaryColor) => {
@@ -334,7 +347,7 @@ export default class Button extends Component {
       case ButtonType.dashed:
         button = buttonStyles.dashed;
         title = titleStyles(dimensions?.width || null).dashed;
-        icon = iconStyles(dimensions?.width || null).secondary;
+        icon = iconStyles(dimensions?.width || null).dashed;
         break;
       case ButtonType.danger:
         button = buttonStyles.danger;
@@ -345,6 +358,11 @@ export default class Button extends Component {
         button = buttonStyles.indifferent;
         title = titleStyles(dimensions?.width || null).indifferent;
         icon = iconStyles(dimensions?.width || null).secondary;
+        break;
+      case ButtonType.tonal:
+        button = buttonStyles.tonal;
+        title = titleStyles(dimensions?.width || null).tonal;
+        icon = iconStyles(dimensions?.width || null).primary;
         break;
       default:
         button = buttonStyles.primary;
@@ -431,7 +449,7 @@ export default class Button extends Component {
           ) : (
             icon || <View />
           )}
-          <Text.Title
+          <Text
             numberOfLines={1}
             style={[
               titleStyles(dimensions?.width || null).default,
@@ -439,7 +457,7 @@ export default class Button extends Component {
               titleStyle,
             ]}>
             {butonTitle}
-          </Text.Title>
+          </Text>
           {typeof rightIcon === 'number' || (rightIcon && rightIcon.uri) ? (
             <Image
               source={rightIcon}
@@ -529,6 +547,7 @@ Button.propTypes = {
     'secondary',
     'dashed',
     'indifferent',
+    'tonal',
   ]),
   onCountdownEnd: PropTypes.func,
   countdown: PropTypes.number,

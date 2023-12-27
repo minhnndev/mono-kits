@@ -1,3 +1,3 @@
 export default {
-    loading: 'Đang tải'
+  loading: 'Đang tải',
 };

@@ -26,11 +26,11 @@ rsync -r --verbose --exclude '*.mdx' --exclude '*Demo.js'  --exclude 'props-type
 # npm login
 #publish dist to npm
 cd dist
-npm publish --access=public
+npm publish --tag beta --access=public
 
 #clear dist and package json
 cd ..
 rm -rf dist
 
 
-curl -X POST -H 'Content-Type: application/json' 'https://chat.googleapis.com/v1/spaces/AAAAbP8987c/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=UGSFRvk_oYb9uGsAgs31bVvMm6jDkmD8zihGm3eyaQA%3D&threadKey=JoaXTEYaNNkl' -d '{"text": "@momo-kits/core new version release: '*"$VERSION"*' https://www.npmjs.com/package/@momo-kits/core"}'
+#curl -X POST -H 'Content-Type: application/json' 'https://chat.googleapis.com/v1/spaces/AAAAbP8987c/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=UGSFRvk_oYb9uGsAgs31bVvMm6jDkmD8zihGm3eyaQA%3D&threadKey=JoaXTEYaNNkl' -d '{"text": "@momo-kits/core new version release: '*"$VERSION"*' https://www.npmjs.com/package/@momo-kits/core"}'

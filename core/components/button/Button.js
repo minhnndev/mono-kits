@@ -19,6 +19,7 @@ export const ButtonType = {
   outline: 'outline',
   dashed: 'dashed',
   indifferent: 'indifferent',
+  tonal: 'tonal',
 };
 
 export const ButtonSize = {
@@ -78,6 +79,9 @@ const buttonStyles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
+  tonal: {
+    backgroundColor: Colors.tonal_button,
+  },
 });
 
 const buttonSize = width => ({
@@ -109,6 +113,9 @@ const titleStyles = width => ({
     color: Colors.black_01,
   },
   outline: {
+    color: Colors.pink_05,
+  },
+  tonal: {
     color: Colors.pink_05,
   },
   disabled: {
@@ -151,6 +158,9 @@ const iconStyles = width => ({
   },
   outline: {
     tintColor: Colors.primary,
+  },
+  tonal: {
+    tintColor: Colors.pink_05,
   },
   disabled: {
     tintColor: Colors.black_09,
@@ -321,6 +331,11 @@ export default class Button extends Component {
         title = titleStyles(dimensions?.width || null).outline;
         icon = iconStyles(dimensions?.width || null).outline;
         break;
+      case ButtonType.tonal:
+        button = buttonStyles.tonal;
+        title = titleStyles(dimensions?.width || null).tonal;
+        icon = iconStyles(dimensions?.width || null).tonal;
+        break;
       case ButtonType.disabled:
         button = buttonStyles.disabled;
         title = titleStyles(dimensions?.width || null).disabled;
@@ -394,6 +409,7 @@ export default class Button extends Component {
       delay,
       primaryColor,
       signlePress,
+      accessibilityLabel,
     } = this.props;
     const {dimensions} = this.state;
     const mapStyle = this.mapStyleFromType(type, size, primaryColor);
@@ -483,7 +499,9 @@ export default class Button extends Component {
     if (onPress && typeof onPress === 'function' && !this.pressDisabled(type)) {
       return (
         <TouchableOpacity
-          accessibilityLabel={`${butonTitle || ''}/Button`}
+          accessibilityLabel={
+            accessibilityLabel || `${butonTitle || ''}/Button`
+          }
           delay={delay || 1000}
           activeOpacity={0.5}
           signlePress={signlePress}
@@ -494,7 +512,9 @@ export default class Button extends Component {
       );
     }
     return (
-      <View accessibilityLabel={`${butonTitle || ''}/Button`} style={style}>
+      <View
+        accessibilityLabel={accessibilityLabel || `${butonTitle || ''}/Button`}
+        style={style}>
         {buttonView}
       </View>
     );
@@ -529,10 +549,14 @@ Button.propTypes = {
     'secondary',
     'dashed',
     'indifferent',
+    'tonal',
   ]),
   onCountdownEnd: PropTypes.func,
   countdown: PropTypes.number,
   delay: PropTypes.number,
   signlePress: PropTypes.bool,
 };
-Button.defaultProps = {};
+
+Button.defaultProps = {
+  type: 'primary',
+};

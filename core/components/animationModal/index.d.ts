@@ -1,19 +1,18 @@
-
-export type SwipeDirection = 'up' | 'down' | 'left' | 'right'
+export type SwipeDirection = 'up' | 'down' | 'left' | 'right';
 
 export type DragEvent = {
   axis: {
     x: number;
     y: number;
-  },
+  };
   layout: {
     x: number;
     y: number;
     width: number;
     height: number;
-  },
+  };
   swipeDirection: string | null;
-}
+};
 
 export type ModalProps = {
   visible: boolean;
@@ -32,15 +31,15 @@ export type ModalProps = {
   onHardwareBackPress?: () => boolean;
   onShow?: () => void;
   onDismiss?: () => void;
-  onMove?: (event: DragEvent) => void,
-  onSwiping?: (event: DragEvent) => void,
-  onSwipeRelease?: (event: DragEvent) => void,
-  onSwipingOut?: (event: DragEvent) => void,
-  onSwipeOut?: (event: DragEvent) => void,
+  onMove?: (event: DragEvent) => void;
+  onSwiping?: (event: DragEvent) => void;
+  onSwipeRelease?: (event: DragEvent) => void;
+  onSwipingOut?: (event: DragEvent) => void;
+  onSwipeOut?: (event: DragEvent) => void;
   swipeDirection?: SwipeDirection | Array<SwipeDirection>;
   swipeThreshold?: number;
   useNativeDriver?: boolean;
-}
+};
 
 export type ModalFooterActionList = Array<Element>;
 
@@ -48,7 +47,7 @@ export type modalFooterProps = {
   children: ModalFooterActionList;
   style?: any;
   bordered?: boolean;
-}
+};
 
 export type ModalButtonProps = {
   text: string;
@@ -59,12 +58,12 @@ export type ModalButtonProps = {
   disabled?: boolean;
   activeOpacity?: number;
   bordered?: boolean;
-}
+};
 
 export type ModalContentProps = {
-  children: any,
-  style?: any,
-}
+  children: any;
+  style?: any;
+};
 
 export type BackdropProps = {
   visible: boolean;
@@ -74,4 +73,4 @@ export type BackdropProps = {
   animationDuration?: number;
   pointerEvents?: string;
   useNativeDriver?: boolean;
-}
+};

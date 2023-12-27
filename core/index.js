@@ -1,4 +1,4 @@
-import { CameraKitCamera } from 'react-native-camera-kit';
+import {CameraKitCamera} from 'react-native-camera-kit';
 import LinearGradient from 'react-native-linear-gradient';
 import FastImage from 'react-native-fast-image';
 import Progress from 'react-native-progress';
@@ -20,13 +20,13 @@ import Button from './components/button/Button';
 import Input from './components/textInput';
 import Navigation from './components/navigation';
 import {
-    NavigationButton,
-    NavigationBackButton,
-    NavigationBar,
-    AnimatedHeaderRight,
+  NavigationButton,
+  NavigationBackButton,
+  NavigationBar,
+  AnimatedHeaderRight,
 } from './components/navigation/components';
 import Icon from './components/icon/Icon';
-import { Icons as IconSource } from './icons';
+import {Icons as IconSource} from './icons';
 import KeyboardCalculator from './components/keyboard';
 import Text from './components/typography';
 import Flex from './components/layout/flex/Flex';
@@ -37,10 +37,12 @@ import ResourceManager from './resources/ResourceManager';
 import LocalizedStrings from './components/language/Language';
 import NumberKeyboard from './components/popup/keyboard/NumberKeyboard';
 import TouchableOpacity from './components/touchableOpacity/TouchableOpacity';
+import Pressable from './components/pressable/Pressable';
 import ApplicationStyle from './applicationStyle';
-import { RFValueHorizontal as ScaleSize } from './components/typography/reponsiveSize';
+import {RFValueHorizontal as ScaleSize} from './components/typography/reponsiveSize';
 import Spacing from './spacing';
 import Radius from './radius';
+import Shadow from './shadow';
 import NumberUtils from './utils/NumberUtils';
 import DatetimeUtil from './utils/DatetimeUtil';
 import DeviceUtils from './utils/DeviceUtils';
@@ -48,22 +50,15 @@ import ScreenUtils from './utils/ScreenUtils';
 import StyleConfig from './utils/StyleConfig';
 import ValueUtil from './utils/ValueUtil';
 import SwitchLanguage from './components/language/SwitchLanguage';
-import { Keys } from './components/keyboard/Keys';
+import {Keys} from './components/keyboard/Keys';
 import {
-    RCTBarCode,
-    RCTQRCode,
-    RCTCodeScannerConfig,
-    RCTCodeScannerConstants,
-    RCTCodeScannerCommands,
-    RCTCodeScannerView,
-    MomoTextInputCalculator,
-    FaceDetectNativeView,
-    FaceDetectCommands,
-    CameraXNativeView,
-    CameraXCommands,
-    CameraXConstants,
-    RCTCocosView,
-    RCTCocosViewCommands,
+  RCTBarCode,
+  RCTQRCode,
+  MomoTextInputCalculator,
+  FaceDetectNativeView,
+  FaceDetectCommands,
+  FaceDetectProgressNativeView,
+  FaceDetectProgressCommands,
 } from './components/native';
 import LottieView from 'lottie-react-native';
 import * as D3Shape from 'd3-shape';
@@ -74,82 +69,75 @@ import ImageZoom from 'react-native-image-pan-zoom';
 import Observer from './observer/Observer';
 import Modalize from './components/modalize';
 import BottomDrawer from './components/popup/sheet';
-import BottomTab from './components/bottomTab';
 
 Modal.BottomModal = BottomModal;
 
 export {
-    BottomDrawer,
-    Modalize,
-    Observer,
-    ImageZoom,
-    WebView,
-    Entities,
-    HtmlParser,
-    LottieView,
-    Popup,
-    D3Shape,
-    Keys,
-    CameraKitCamera,
-    SwitchLanguage,
-    BottomModal,
-    BottomPopupHeader,
-    Button,
-    Colors,
-    Flex,
-    Icon,
-    IconSource,
-    Image,
-    Input,
-    KeyboardCalculator,
-    LocalizedStrings,
-    Modal,
-    Navigation,
-    NavigationButton,
-    NavigationBackButton,
-    NavigationBar,
-    NumberKeyboard,
-    ResourceManager,
-    Text,
-    TouchableOpacity,
-    ApplicationStyle,
-    ScaleSize,
-    Spacing,
-    Radius,
-    LinearGradient,
-    NumberUtils,
-    DatetimeUtil,
-    DeviceUtils,
-    ScreenUtils,
-    StyleConfig,
-    ValueUtil,
-    FastImage,
-    Progress,
-    NavigationRouters,
-    NavigationCore,
-    NavigationBottomTabs,
-    NavigationNative,
-    NavigationStack,
-    MarkerView,
-    Art,
-    SafeAreaContext,
-    RNScreen,
-    RNGestureHandler,
-    ViewPager,
-    RCTBarCode,
-    RCTQRCode,
-    RCTCodeScannerConfig,
-    RCTCodeScannerConstants,
-    RCTCodeScannerCommands,
-    RCTCodeScannerView,
-    MomoTextInputCalculator,
-    AnimatedHeaderRight,
-    FaceDetectNativeView,
-    FaceDetectCommands,
-    CameraXNativeView,
-    CameraXCommands,
-    CameraXConstants,
-    RCTCocosView,
-    RCTCocosViewCommands,
-    BottomTab,
+  BottomDrawer,
+  Modalize,
+  Observer,
+  ImageZoom,
+  WebView,
+  Entities,
+  HtmlParser,
+  LottieView,
+  Popup,
+  D3Shape,
+  Keys,
+  CameraKitCamera,
+  SwitchLanguage,
+  BottomModal,
+  BottomPopupHeader,
+  Button,
+  Colors,
+  Flex,
+  Icon,
+  IconSource,
+  Image,
+  Input,
+  KeyboardCalculator,
+  LocalizedStrings,
+  Modal,
+  Navigation,
+  NavigationButton,
+  NavigationBackButton,
+  NavigationBar,
+  NumberKeyboard,
+  ResourceManager,
+  Text,
+  TouchableOpacity,
+  Pressable,
+  ApplicationStyle,
+  ScaleSize,
+  Spacing,
+  Radius,
+  Shadow,
+  LinearGradient,
+  NumberUtils,
+  DatetimeUtil,
+  DeviceUtils,
+  ScreenUtils,
+  StyleConfig,
+  ValueUtil,
+  FastImage,
+  Progress,
+  NavigationRouters,
+  NavigationCore,
+  NavigationBottomTabs,
+  NavigationNative,
+  NavigationStack,
+  MarkerView,
+  Art,
+  SafeAreaContext,
+  RNScreen,
+  RNGestureHandler,
+  ViewPager,
+  RCTBarCode,
+  RCTQRCode,
+  MomoTextInputCalculator,
+  AnimatedHeaderRight,
+  FaceDetectNativeView,
+  FaceDetectCommands,
+  FaceDetectProgressNativeView,
+  FaceDetectProgressCommands,
 };

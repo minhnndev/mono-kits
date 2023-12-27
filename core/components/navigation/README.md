@@ -54,25 +54,28 @@
 ### Props
 
 #### screen
-| Type   | Required | Desciption |
-| ------ | -------- | ---- |
-| function | Yes      | |
+
+| Type     | Required | Desciption |
+| -------- | -------- | ---------- |
+| function | Yes      |            |
 
 #### screenProps
+
 | Type   | Required | Desciption |
-| ------ | -------- | ---- |
-| object | No      | |
+| ------ | -------- | ---------- |
+| object | No       |            |
 
 #### defaultOptions
+
 | Type   | Required | Desciption |
-| ------ | -------- | ---- |
-| object | No      | |
+| ------ | -------- | ---------- |
+| object | No       |            |
 
 #### options
-| Type   | Required | Desciption |
-| ------ | -------- | ---- |
-| object | No      | |
 
+| Type   | Required | Desciption |
+| ------ | -------- | ---------- |
+| object | No       |            |
 
 - **title**: string
 - **header**: function

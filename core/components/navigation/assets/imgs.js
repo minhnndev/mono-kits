@@ -1,20 +1,40 @@
-import { NativeModules } from 'react-native';
+import {NativeModules} from 'react-native';
 import ResouceManager from '../../../resources/ResourceManager';
 import ValueUtil from '../../../utils/ValueUtil';
+import icons from '../../icon/cached_images.json';
 
 ResouceManager.loadResource('navigationBar');
 
-const headerBar = NativeModules?.RNResource?.navigationBar
-    ? ValueUtil.parseData(NativeModules?.RNResource?.navigationBar)
-          ?.headerBar ||
-      'https://cdn.mservice.com.vn/app/img/kits/background/header/bg_header.png'
-    : 'https://cdn.mservice.com.vn/app/img/kits/background/header/bg_header.png';
+const headerColors = [
+  'rgba(189,24,114,1)',
+  'rgba(255,133,186,1)',
+  'rgba(255,255,255,0)',
+];
 
-const imgs = {
-    bg_header: headerBar,
-    ic_back_android:
-        'https://img.mservice.io/momo_app_v2/new_version/img/appx_icon/ic_back_android.png',
-    ic_back_ios:
-        'https://img.mservice.com.vn/momo_app_v2/new_version/img/appx_icon/ic_back_ios.png',
+const buttonColors = {};
+
+const getHeaderImage = () => {
+  const navigationBarResource = NativeModules?.RNResource?.navigationBar;
+  if (ValueUtil.parseData(navigationBarResource)?.headerBar) {
+    return ValueUtil.parseData(navigationBarResource)?.headerBar;
+  }
+  return icons.header_background.uri;
 };
-export default imgs;
+
+const getHeaderColors = () => {
+  const navigationBarResource = NativeModules?.RNResource?.navigationBar;
+  if (ValueUtil.parseData(navigationBarResource)?.headerColors) {
+    return ValueUtil.parseData(navigationBarResource)?.headerColors;
+  }
+  return headerColors;
+};
+
+const getButtonColors = () => {
+  const navigationBarResource = NativeModules?.RNResource?.navigationBar;
+  if (ValueUtil.parseData(navigationBarResource)?.buttonColors) {
+    return ValueUtil.parseData(navigationBarResource)?.buttonColors;
+  }
+  return buttonColors;
+};
+
+export {getHeaderImage, getHeaderColors, getButtonColors};

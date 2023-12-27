@@ -1,3 +1,1 @@
-export const ButtonSize = {
-
-}
+export const ButtonSize = {};
